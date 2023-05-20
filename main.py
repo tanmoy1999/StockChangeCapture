@@ -6,6 +6,7 @@ import zipfile
 from datetime import datetime, date
 import requests, zipfile, io
 import json
+import csv
 
 def csv_to_json(csv_file):
     with open(csv_file, 'r') as file:
