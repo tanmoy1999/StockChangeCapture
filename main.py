@@ -104,7 +104,7 @@ print('Process completed... file generated ', filename)
 
 json_data = csv_to_json(filename)
 
-json_filename = str(d4) + '.json'
+json_filename = 'JSONOutput/'+str(d4) + '.json'
 save_file = open(json_filename, "w")  
 json.dump(json_data, save_file, indent = 6)  
 save_file.close()  
