@@ -108,6 +108,7 @@ json_filename = 'JSONOutput/'+str(d4) + '.json'
 save_file = open(json_filename, "w")  
 json.dump(json_data, save_file, indent = 6)  
 save_file.close()  
+print(f"JSON file exported... {json_filename}")
 
 print(dir_list)
 dir_list_del = ['Test/'+ i for i in dir_list]
