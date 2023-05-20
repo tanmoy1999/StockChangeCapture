@@ -4,8 +4,25 @@ import numpy as np
 import wget
 import zipfile
 from datetime import datetime, date
-
 import requests, zipfile, io
+import json
+
+def csv_to_json(csv_file):
+    with open(csv_file, 'r') as file:
+        csv_data = csv.reader(file)
+        headers = next(csv_data)  # Get the header row
+        json_data = {}
+
+        for row in csv_data:
+            node = row[1]  # First column as the node
+            children = {header: value for header, value in zip(headers[2:], row[2:])}  # Rest of the columns as children
+
+            if node not in json_data:
+                json_data[node] = []
+
+            json_data[node].append(children)
+
+    return json_data
 
 def down(URL):
   try:
@@ -83,6 +100,14 @@ d4 = today.strftime('%b%Y')
 filename = str(d4) + '.csv'
 df2.to_csv(filename)
 print('Process completed... file generated ', filename)
+
+json_data = csv_to_json(filename)
+
+json_filename = str(d4) + '.json'
+save_file = open(json_filename, "w")  
+json.dump(json_data, save_file, indent = 6)  
+save_file.close()  
+
 print(dir_list)
 dir_list_del = ['Test/'+ i for i in dir_list]
 for f in dir_list_del:
