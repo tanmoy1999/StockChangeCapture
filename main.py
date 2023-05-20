@@ -98,7 +98,7 @@ for i in dir_list:
 #save file
 today = date.today()
 d4 = today.strftime('%b%Y')
-filename = str(d4) + '.csv'
+filename = 'CSVOutput/' + str(d4) + '.csv'
 df2.to_csv(filename)
 print('Process completed... file generated ', filename)
 
