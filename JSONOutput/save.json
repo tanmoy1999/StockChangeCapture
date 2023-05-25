@@ -1,0 +1,3398 @@
+{
+    "ind_close_all_02052023": [
+        {
+            "Nifty 50": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "18124.8",
+                "High Index Value": "18180.25",
+                "Low Index Value": "18101.75",
+                "Closing Index Value": "18147.65",
+                "Points Change": "82.65",
+                "Change(%)": ".46",
+                "Volume": "265216308",
+                "Turnover (Rs. Cr.)": "23615.47",
+                "P/E": "20.92",
+                "P/B": "4.25",
+                "Div Yield": "1.38"
+            }
+        },
+        {
+            "Nifty Next 50": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "39647.55",
+                "High Index Value": "39828.85",
+                "Low Index Value": "39606.9",
+                "Closing Index Value": "39774.5",
+                "Points Change": "260.3",
+                "Change(%)": ".66",
+                "Volume": "268414760",
+                "Turnover (Rs. Cr.)": "7254.73",
+                "P/E": "26.98",
+                "P/B": "4.43",
+                "Div Yield": "1.94"
+            }
+        },
+        {
+            "Nifty 100": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "17964.35",
+                "High Index Value": "18020.6",
+                "Low Index Value": "17943.5",
+                "Closing Index Value": "17989.3",
+                "Points Change": "85.35",
+                "Change(%)": ".48",
+                "Volume": "533631068",
+                "Turnover (Rs. Cr.)": "30870.2",
+                "P/E": "21.76",
+                "P/B": "4.32",
+                "Div Yield": "1.43"
+            }
+        },
+        {
+            "Nifty 200": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "9437.6",
+                "High Index Value": "9471.5",
+                "Low Index Value": "9427.55",
+                "Closing Index Value": "9455.0",
+                "Points Change": "51.0",
+                "Change(%)": ".54",
+                "Volume": "1418941426",
+                "Turnover (Rs. Cr.)": "41771.91",
+                "P/E": "21.94",
+                "P/B": "4.04",
+                "Div Yield": "1.41"
+            }
+        },
+        {
+            "Nifty 500": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "15276.2",
+                "High Index Value": "15327.75",
+                "Low Index Value": "15261.15",
+                "Closing Index Value": "15300.75",
+                "Points Change": "81.2",
+                "Change(%)": ".53",
+                "Volume": "2179360513",
+                "Turnover (Rs. Cr.)": "52398.57",
+                "P/E": "21.89",
+                "P/B": "4",
+                "Div Yield": "1.38"
+            }
+        },
+        {
+            "Nifty Midcap 50": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "9010.75",
+                "High Index Value": "9080.7",
+                "Low Index Value": "8996.95",
+                "Closing Index Value": "9062.2",
+                "Points Change": "99.35",
+                "Change(%)": "1.11",
+                "Volume": "395367728",
+                "Turnover (Rs. Cr.)": "6714.73",
+                "P/E": "22.97",
+                "P/B": "2.63",
+                "Div Yield": "1.34"
+            }
+        },
+        {
+            "NIFTY Midcap 100": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "31948.85",
+                "High Index Value": "32171.8",
+                "Low Index Value": "31926.85",
+                "Closing Index Value": "32101.8",
+                "Points Change": "307.05",
+                "Change(%)": ".97",
+                "Volume": "885310358",
+                "Turnover (Rs. Cr.)": "10901.71",
+                "P/E": "23.12",
+                "P/B": "2.86",
+                "Div Yield": "1.31"
+            }
+        },
+        {
+            "NIFTY Smallcap 100": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "9719.85",
+                "High Index Value": "9776.95",
+                "Low Index Value": "9709.9",
+                "Closing Index Value": "9739.1",
+                "Points Change": "66.55",
+                "Change(%)": ".69",
+                "Volume": "597032049",
+                "Turnover (Rs. Cr.)": "6328.02",
+                "P/E": "17.4",
+                "P/B": "2.98",
+                "Div Yield": "1.43"
+            }
+        },
+        {
+            "Nifty50 Dividend Points": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "-",
+                "High Index Value": "-",
+                "Low Index Value": "-",
+                "Closing Index Value": "7.1",
+                "Points Change": "0.0",
+                "Change(%)": "-",
+                "Volume": "-",
+                "Turnover (Rs. Cr.)": "-",
+                "P/E": "-",
+                "P/B": "-",
+                "Div Yield": "-"
+            }
+        },
+        {
+            "Nifty Auto": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "13212.3",
+                "High Index Value": "13307.45",
+                "Low Index Value": "13147.9",
+                "Closing Index Value": "13283.15",
+                "Points Change": "93.9",
+                "Change(%)": ".71",
+                "Volume": "43950179",
+                "Turnover (Rs. Cr.)": "3150.92",
+                "P/E": "32.86",
+                "P/B": "5.14",
+                "Div Yield": "1"
+            }
+        },
+        {
+            "Nifty Bank": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "43395.05",
+                "High Index Value": "43483.85",
+                "Low Index Value": "43269.4",
+                "Closing Index Value": "43352.1",
+                "Points Change": "118.2",
+                "Change(%)": ".27",
+                "Volume": "241565172",
+                "Turnover (Rs. Cr.)": "8918.99",
+                "P/E": "16.12",
+                "P/B": "2.81",
+                "Div Yield": ".66"
+            }
+        },
+        {
+            "Nifty Energy": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "23876.3",
+                "High Index Value": "24104.05",
+                "Low Index Value": "23862.45",
+                "Closing Index Value": "24046.95",
+                "Points Change": "312.4",
+                "Change(%)": "1.32",
+                "Volume": "66836364",
+                "Turnover (Rs. Cr.)": "2916.22",
+                "P/E": "12.59",
+                "P/B": "2.2",
+                "Div Yield": "3.16"
+            }
+        },
+        {
+            "Nifty Financial Services": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "19229.5",
+                "High Index Value": "19265.2",
+                "Low Index Value": "19168.05",
+                "Closing Index Value": "19208.05",
+                "Points Change": "45.5",
+                "Change(%)": ".24",
+                "Volume": "136176344",
+                "Turnover (Rs. Cr.)": "11350.53",
+                "P/E": "17.65",
+                "P/B": "3.73",
+                "Div Yield": ".74"
+            }
+        },
+        {
+            "Nifty FMCG": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "47956.85",
+                "High Index Value": "48083.7",
+                "Low Index Value": "47675.25",
+                "Closing Index Value": "47750.2",
+                "Points Change": "-63.9",
+                "Change(%)": "-.13",
+                "Volume": "24553152",
+                "Turnover (Rs. Cr.)": "2424.61",
+                "P/E": "42.6",
+                "P/B": "11.86",
+                "Div Yield": "1.76"
+            }
+        },
+        {
+            "Nifty IT": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "27792.7",
+                "High Index Value": "28154.1",
+                "Low Index Value": "27756",
+                "Closing Index Value": "28025.0",
+                "Points Change": "316.8",
+                "Change(%)": "1.14",
+                "Volume": "26046321",
+                "Turnover (Rs. Cr.)": "3995.51",
+                "P/E": "24.38",
+                "P/B": "7.85",
+                "Div Yield": "2.66"
+            }
+        },
+        {
+            "Nifty Media": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "1721.05",
+                "High Index Value": "1734.8",
+                "Low Index Value": "1718.2",
+                "Closing Index Value": "1723.1",
+                "Points Change": "8.25",
+                "Change(%)": ".48",
+                "Volume": "24299332",
+                "Turnover (Rs. Cr.)": "380.59",
+                "P/E": "-",
+                "P/B": "2.65",
+                "Div Yield": ".75"
+            }
+        },
+        {
+            "Nifty Metal": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "5828.4",
+                "High Index Value": "5911.25",
+                "Low Index Value": "5820.7",
+                "Closing Index Value": "5882.0",
+                "Points Change": "82.6",
+                "Change(%)": "1.42",
+                "Volume": "116105540",
+                "Turnover (Rs. Cr.)": "2429.06",
+                "P/E": "12.28",
+                "P/B": "1.86",
+                "Div Yield": "5.15"
+            }
+        },
+        {
+            "Nifty MNC": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "19874.15",
+                "High Index Value": "19924.55",
+                "Low Index Value": "19835.1",
+                "Closing Index Value": "19854.25",
+                "Points Change": "42.7",
+                "Change(%)": ".22",
+                "Volume": "30401332",
+                "Turnover (Rs. Cr.)": "3131.66",
+                "P/E": "33.68",
+                "P/B": "7.25",
+                "Div Yield": "3.22"
+            }
+        },
+        {
+            "Nifty Pharma": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "12618.75",
+                "High Index Value": "12669.75",
+                "Low Index Value": "12559.05",
+                "Closing Index Value": "12590.3",
+                "Points Change": "-23.65",
+                "Change(%)": "-.19",
+                "Volume": "22723734",
+                "Turnover (Rs. Cr.)": "1540.28",
+                "P/E": "33.27",
+                "P/B": "4.3",
+                "Div Yield": "1.03"
+            }
+        },
+        {
+            "Nifty PSU Bank": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "4197.5",
+                "High Index Value": "4217.85",
+                "Low Index Value": "4175.6",
+                "Closing Index Value": "4184.1",
+                "Points Change": "16.45",
+                "Change(%)": ".39",
+                "Volume": "211017976",
+                "Turnover (Rs. Cr.)": "2022.79",
+                "P/E": "9.51",
+                "P/B": "1.12",
+                "Div Yield": "1.54"
+            }
+        },
+        {
+            "Nifty Realty": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "446.1",
+                "High Index Value": "447.35",
+                "Low Index Value": "443.8",
+                "Closing Index Value": "444.95",
+                "Points Change": "-0.15",
+                "Change(%)": "-.03",
+                "Volume": "14333815",
+                "Turnover (Rs. Cr.)": "445.4",
+                "P/E": "40.56",
+                "P/B": "3.31",
+                "Div Yield": ".32"
+            }
+        },
+        {
+            "Nifty India Consumption": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "7522.2",
+                "High Index Value": "7547.4",
+                "Low Index Value": "7509.8",
+                "Closing Index Value": "7522.65",
+                "Points Change": "20.6",
+                "Change(%)": ".27",
+                "Volume": "63497070",
+                "Turnover (Rs. Cr.)": "6019.21",
+                "P/E": "38.5",
+                "P/B": "8.18",
+                "Div Yield": "1.12"
+            }
+        },
+        {
+            "Nifty Commodities": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "5806.7",
+                "High Index Value": "5860",
+                "Low Index Value": "5804.35",
+                "Closing Index Value": "5845.25",
+                "Points Change": "63.6",
+                "Change(%)": "1.1",
+                "Volume": "179892240",
+                "Turnover (Rs. Cr.)": "6335.31",
+                "P/E": "14.19",
+                "P/B": "2.24",
+                "Div Yield": "3.09"
+            }
+        },
+        {
+            "Nifty Dividend Opportunities 50": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "3966.6",
+                "High Index Value": "3995.75",
+                "Low Index Value": "3964.25",
+                "Closing Index Value": "3987.6",
+                "Points Change": "33.95",
+                "Change(%)": ".86",
+                "Volume": "515627013",
+                "Turnover (Rs. Cr.)": "9490.26",
+                "P/E": "15.21",
+                "P/B": "2.82",
+                "Div Yield": "4.02"
+            }
+        },
+        {
+            "Nifty Infrastructure": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "5376.3",
+                "High Index Value": "5400.1",
+                "Low Index Value": "5371.5",
+                "Closing Index Value": "5387.2",
+                "Points Change": "31.0",
+                "Change(%)": ".58",
+                "Volume": "134117567",
+                "Turnover (Rs. Cr.)": "6513.45",
+                "P/E": "21.98",
+                "P/B": "3.04",
+                "Div Yield": "1.45"
+            }
+        },
+        {
+            "Nifty PSE": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "4703.6",
+                "High Index Value": "4766.8",
+                "Low Index Value": "4701.35",
+                "Closing Index Value": "4758.6",
+                "Points Change": "75.45",
+                "Change(%)": "1.61",
+                "Volume": "197988611",
+                "Turnover (Rs. Cr.)": "2937.59",
+                "P/E": "9.1",
+                "P/B": "1.52",
+                "Div Yield": "4.72"
+            }
+        },
+        {
+            "Nifty Services Sector": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "23815.95",
+                "High Index Value": "23888.8",
+                "Low Index Value": "23771.15",
+                "Closing Index Value": "23828.95",
+                "Points Change": "95.2",
+                "Change(%)": ".4",
+                "Volume": "150637945",
+                "Turnover (Rs. Cr.)": "15253.67",
+                "P/E": "19.67",
+                "P/B": "4.21",
+                "Div Yield": "1.3"
+            }
+        },
+        {
+            "Nifty50 Shariah": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "-",
+                "High Index Value": "-",
+                "Low Index Value": "-",
+                "Closing Index Value": "3738.32",
+                "Points Change": "27.69",
+                "Change(%)": ".75",
+                "Volume": "113903089",
+                "Turnover (Rs. Cr.)": "6960.06",
+                "P/E": "20.95",
+                "P/B": "4.99",
+                "Div Yield": "2.53"
+            }
+        },
+        {
+            "Nifty500 Shariah": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "-",
+                "High Index Value": "-",
+                "Low Index Value": "-",
+                "Closing Index Value": "4991.85",
+                "Points Change": "33.42",
+                "Change(%)": ".67",
+                "Volume": "422273742",
+                "Turnover (Rs. Cr.)": "17473.05",
+                "P/E": "24.3",
+                "P/B": "4.96",
+                "Div Yield": "1.79"
+            }
+        },
+        {
+            "Nifty Low Volatility 50": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "-",
+                "High Index Value": "-",
+                "Low Index Value": "-",
+                "Closing Index Value": "16230.25",
+                "Points Change": "49.86",
+                "Change(%)": ".31",
+                "Volume": "147342318",
+                "Turnover (Rs. Cr.)": "16178.22",
+                "P/E": "29.41",
+                "P/B": "4.93",
+                "Div Yield": "1.56"
+            }
+        },
+        {
+            "Nifty Alpha 50": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "27816.3",
+                "High Index Value": "28012.8",
+                "Low Index Value": "27798.6",
+                "Closing Index Value": "27841.5",
+                "Points Change": "182.1",
+                "Change(%)": ".66",
+                "Volume": "527906383",
+                "Turnover (Rs. Cr.)": "8009.3",
+                "P/E": "16.12",
+                "P/B": "2.34",
+                "Div Yield": "1.41"
+            }
+        },
+        {
+            "Nifty High Beta 50": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "-",
+                "High Index Value": "-",
+                "Low Index Value": "-",
+                "Closing Index Value": "2262.09",
+                "Points Change": "11.87",
+                "Change(%)": ".53",
+                "Volume": "608964369",
+                "Turnover (Rs. Cr.)": "12317.01",
+                "P/E": "16.43",
+                "P/B": "1.84",
+                "Div Yield": "1.88"
+            }
+        },
+        {
+            "Nifty100 Equal Weight": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "20346.3",
+                "High Index Value": "20430.65",
+                "Low Index Value": "20326.85",
+                "Closing Index Value": "20401.05",
+                "Points Change": "120.3",
+                "Change(%)": ".59",
+                "Volume": "533631068",
+                "Turnover (Rs. Cr.)": "30870.2",
+                "P/E": "23.88",
+                "P/B": "4.33",
+                "Div Yield": "1.67"
+            }
+        },
+        {
+            "Nifty100 Liquid 15": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "4563.55",
+                "High Index Value": "4571.75",
+                "Low Index Value": "4551.75",
+                "Closing Index Value": "4560.85",
+                "Points Change": "17.2",
+                "Change(%)": ".38",
+                "Volume": "125288882",
+                "Turnover (Rs. Cr.)": "8823.68",
+                "P/E": "19.72",
+                "P/B": "3.52",
+                "Div Yield": "1"
+            }
+        },
+        {
+            "Nifty CPSE": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "3065.85",
+                "High Index Value": "3113.75",
+                "Low Index Value": "3065",
+                "Closing Index Value": "3107.95",
+                "Points Change": "54.15",
+                "Change(%)": "1.77",
+                "Volume": "81297127",
+                "Turnover (Rs. Cr.)": "1039.04",
+                "P/E": "7.5",
+                "P/B": "1.75",
+                "Div Yield": "5.96"
+            }
+        },
+        {
+            "Nifty50 Value 20": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "9312.85",
+                "High Index Value": "9379.25",
+                "Low Index Value": "9308.1",
+                "Closing Index Value": "9361.75",
+                "Points Change": "76.35",
+                "Change(%)": ".82",
+                "Volume": "136673329",
+                "Turnover (Rs. Cr.)": "6189.49",
+                "P/E": "17.53",
+                "P/B": "3.99",
+                "Div Yield": "3.21"
+            }
+        },
+        {
+            "Nifty Midcap Liquid 15": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "7746.05",
+                "High Index Value": "7780.45",
+                "Low Index Value": "7731.6",
+                "Closing Index Value": "7763.95",
+                "Points Change": "60.55",
+                "Change(%)": ".79",
+                "Volume": "54683863",
+                "Turnover (Rs. Cr.)": "1991.61",
+                "P/E": "22.6",
+                "P/B": "3.06",
+                "Div Yield": ".73"
+            }
+        },
+        {
+            "Nifty Shariah 25": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "-",
+                "High Index Value": "-",
+                "Low Index Value": "-",
+                "Closing Index Value": "6057.95",
+                "Points Change": "38.37",
+                "Change(%)": ".64",
+                "Volume": "83194358",
+                "Turnover (Rs. Cr.)": "6371.27",
+                "P/E": "20.95",
+                "P/B": "5.55",
+                "Div Yield": "2.39"
+            }
+        },
+        {
+            "India VIX": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "10.9475",
+                "High Index Value": "12.0625",
+                "Low Index Value": "10.9475",
+                "Closing Index Value": "11.9",
+                "Points Change": "0.95",
+                "Change(%)": "8.68",
+                "Volume": "-",
+                "Turnover (Rs. Cr.)": "-",
+                "P/E": "-",
+                "P/B": "-",
+                "Div Yield": "-"
+            }
+        },
+        {
+            "Nifty Growth Sectors 15": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "8843.65",
+                "High Index Value": "8865.75",
+                "Low Index Value": "8819.75",
+                "Closing Index Value": "8844.85",
+                "Points Change": "31.85",
+                "Change(%)": ".36",
+                "Volume": "46036871",
+                "Turnover (Rs. Cr.)": "4701.3",
+                "P/E": "32.98",
+                "P/B": "8.18",
+                "Div Yield": "2.08"
+            }
+        },
+        {
+            "Nifty50 TR 1x Inverse": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "214.5",
+                "High Index Value": "214.7",
+                "Low Index Value": "213.85",
+                "Closing Index Value": "214.25",
+                "Points Change": "-0.8",
+                "Change(%)": "-.37",
+                "Volume": "-",
+                "Turnover (Rs. Cr.)": "-",
+                "P/E": "-",
+                "P/B": "-",
+                "Div Yield": "-"
+            }
+        },
+        {
+            "Nifty50 TR 2x Leverage": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "12166.85",
+                "High Index Value": "12240.5",
+                "Low Index Value": "12141.9",
+                "Closing Index Value": "12197.45",
+                "Points Change": "101.6",
+                "Change(%)": ".84",
+                "Volume": "-",
+                "Turnover (Rs. Cr.)": "-",
+                "P/E": "-",
+                "P/B": "-",
+                "Div Yield": "-"
+            }
+        },
+        {
+            "Nifty50 PR 1x Inverse": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "253.55",
+                "High Index Value": "253.8",
+                "Low Index Value": "252.75",
+                "Closing Index Value": "253.2",
+                "Points Change": "-1.0",
+                "Change(%)": "-.39",
+                "Volume": "-",
+                "Turnover (Rs. Cr.)": "-",
+                "P/E": "-",
+                "P/B": "-",
+                "Div Yield": "-"
+            }
+        },
+        {
+            "Nifty50 PR 2x Leverage": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "8692.05",
+                "High Index Value": "8744.65",
+                "Low Index Value": "8674.25",
+                "Closing Index Value": "8713.9",
+                "Points Change": "72.6",
+                "Change(%)": ".84",
+                "Volume": "-",
+                "Turnover (Rs. Cr.)": "-",
+                "P/E": "-",
+                "P/B": "-",
+                "Div Yield": "-"
+            }
+        },
+        {
+            "NIFTY100 Quality 30": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "3958.05",
+                "High Index Value": "3978.5",
+                "Low Index Value": "3954.6",
+                "Closing Index Value": "3969.65",
+                "Points Change": "20.95",
+                "Change(%)": ".53",
+                "Volume": "69454800",
+                "Turnover (Rs. Cr.)": "10562.06",
+                "P/E": "25.54",
+                "P/B": "7.95",
+                "Div Yield": "2.14"
+            }
+        },
+        {
+            "Nifty Mahindra Group": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "-",
+                "High Index Value": "-",
+                "Low Index Value": "-",
+                "Closing Index Value": "17577.56",
+                "Points Change": "273.93",
+                "Change(%)": "1.58",
+                "Volume": "31289541",
+                "Turnover (Rs. Cr.)": "1498.62",
+                "P/E": "16.91",
+                "P/B": "3.71",
+                "Div Yield": "2.08"
+            }
+        },
+        {
+            "Nifty 50 Futures TR Index": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "-",
+                "High Index Value": "-",
+                "Low Index Value": "-",
+                "Closing Index Value": "19417.3",
+                "Points Change": "123.63",
+                "Change(%)": ".64",
+                "Volume": "-",
+                "Turnover (Rs. Cr.)": "-",
+                "P/E": "-",
+                "P/B": "-",
+                "Div Yield": "-"
+            }
+        },
+        {
+            "Nifty Tata Group": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "-",
+                "High Index Value": "-",
+                "Low Index Value": "-",
+                "Closing Index Value": "12753.13",
+                "Points Change": "47.0",
+                "Change(%)": ".37",
+                "Volume": "96816066",
+                "Turnover (Rs. Cr.)": "3341.6",
+                "P/E": "31.74",
+                "P/B": "7.56",
+                "Div Yield": "2.42"
+            }
+        },
+        {
+            "Nifty Tata Group 25% Cap": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "-",
+                "High Index Value": "-",
+                "Low Index Value": "-",
+                "Closing Index Value": "10309.69",
+                "Points Change": "79.01",
+                "Change(%)": ".77",
+                "Volume": "88022425",
+                "Turnover (Rs. Cr.)": "3054.47",
+                "P/E": "30.82",
+                "P/B": "4.76",
+                "Div Yield": "1.72"
+            }
+        },
+        {
+            "Nifty Private Bank": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "21976.4",
+                "High Index Value": "22019.85",
+                "Low Index Value": "21900.25",
+                "Closing Index Value": "21953.5",
+                "Points Change": "67.75",
+                "Change(%)": ".31",
+                "Volume": "202099368",
+                "Turnover (Rs. Cr.)": "7900.8",
+                "P/E": "16.24",
+                "P/B": "2.74",
+                "Div Yield": ".56"
+            }
+        },
+        {
+            "Nifty Smallcap 250": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "9446.8",
+                "High Index Value": "9499.55",
+                "Low Index Value": "9437.1",
+                "Closing Index Value": "9452.85",
+                "Points Change": "60.25",
+                "Change(%)": ".64",
+                "Volume": "736120654",
+                "Turnover (Rs. Cr.)": "9436.15",
+                "P/E": "18.31",
+                "P/B": "3.13",
+                "Div Yield": "1.25"
+            }
+        },
+        {
+            "Nifty Smallcap 50": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "4457.95",
+                "High Index Value": "4486.3",
+                "Low Index Value": "4451.25",
+                "Closing Index Value": "4461.45",
+                "Points Change": "25.2",
+                "Change(%)": ".57",
+                "Volume": "480234976",
+                "Turnover (Rs. Cr.)": "4405.13",
+                "P/E": "17.09",
+                "P/B": "3.09",
+                "Div Yield": "2.01"
+            }
+        },
+        {
+            "Nifty MidSmallcap 400": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "11084.45",
+                "High Index Value": "11140.7",
+                "Low Index Value": "11077.25",
+                "Closing Index Value": "11111.2",
+                "Points Change": "81.1",
+                "Change(%)": ".74",
+                "Volume": "1644107207",
+                "Turnover (Rs. Cr.)": "21488.58",
+                "P/E": "22.16",
+                "P/B": "3.21",
+                "Div Yield": "1.21"
+            }
+        },
+        {
+            "Nifty Midcap 150": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "11997.3",
+                "High Index Value": "12063",
+                "Low Index Value": "11990.55",
+                "Closing Index Value": "12037.15",
+                "Points Change": "93.6",
+                "Change(%)": ".78",
+                "Volume": "907986553",
+                "Turnover (Rs. Cr.)": "12052.43",
+                "P/E": "24.83",
+                "P/B": "3.25",
+                "Div Yield": "1.19"
+            }
+        },
+        {
+            "Nifty Midcap Select": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "7275.3",
+                "High Index Value": "7342.45",
+                "Low Index Value": "7262.6",
+                "Closing Index Value": "7327.7",
+                "Points Change": "95.15",
+                "Change(%)": "1.32",
+                "Volume": "204688785",
+                "Turnover (Rs. Cr.)": "3646.22",
+                "P/E": "33.4",
+                "P/B": "3.05",
+                "Div Yield": ".8"
+            }
+        },
+        {
+            "NIFTY LargeMidcap 250": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "10110.05",
+                "High Index Value": "10153.2",
+                "Low Index Value": "10102.45",
+                "Closing Index Value": "10133.9",
+                "Points Change": "63.55",
+                "Change(%)": ".63",
+                "Volume": "1441617621",
+                "Turnover (Rs. Cr.)": "42922.63",
+                "P/E": "23.21",
+                "P/B": "3.7",
+                "Div Yield": "1.31"
+            }
+        },
+        {
+            "NIFTY SME EMERGE": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "-",
+                "High Index Value": "-",
+                "Low Index Value": "-",
+                "Closing Index Value": "6888.42",
+                "Points Change": "27.12",
+                "Change(%)": ".4",
+                "Volume": "-",
+                "Turnover (Rs. Cr.)": "-",
+                "P/E": "49.6",
+                "P/B": "4.75",
+                "Div Yield": ".1"
+            }
+        },
+        {
+            "Nifty Oil & Gas": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "7528",
+                "High Index Value": "7595.45",
+                "Low Index Value": "7523.4",
+                "Closing Index Value": "7578.4",
+                "Points Change": "86.6",
+                "Change(%)": "1.16",
+                "Volume": "56943905",
+                "Turnover (Rs. Cr.)": "2462.18",
+                "P/E": "14.94",
+                "P/B": "1.84",
+                "Div Yield": "2.95"
+            }
+        },
+        {
+            "Nifty Financial Services 25/50": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "18445.1",
+                "High Index Value": "18508.8",
+                "Low Index Value": "18404.4",
+                "Closing Index Value": "18457.8",
+                "Points Change": "84.5",
+                "Change(%)": ".46",
+                "Volume": "136176344",
+                "Turnover (Rs. Cr.)": "11350.53",
+                "P/E": "16.04",
+                "P/B": "3.66",
+                "Div Yield": ".92"
+            }
+        },
+        {
+            "Nifty Healthcare Index": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "8018.05",
+                "High Index Value": "8057.4",
+                "Low Index Value": "7996.5",
+                "Closing Index Value": "8018.5",
+                "Points Change": "4.95",
+                "Change(%)": ".06",
+                "Volume": "26155022",
+                "Turnover (Rs. Cr.)": "1841.91",
+                "P/E": "37.33",
+                "P/B": "4.83",
+                "Div Yield": ".73"
+            }
+        },
+        {
+            "Nifty500 Multicap 50:25:25": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "9993.95",
+                "High Index Value": "10031.45",
+                "Low Index Value": "9985.6",
+                "Closing Index Value": "10010.7",
+                "Points Change": "59.1",
+                "Change(%)": ".59",
+                "Volume": "2179360513",
+                "Turnover (Rs. Cr.)": "52398.57",
+                "P/E": "21.44",
+                "P/B": "3.67",
+                "Div Yield": "1.32"
+            }
+        },
+        {
+            "Nifty Microcap 250": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "11283.95",
+                "High Index Value": "11359.35",
+                "Low Index Value": "11281.1",
+                "Closing Index Value": "11321.95",
+                "Points Change": "99.85",
+                "Change(%)": ".89",
+                "Volume": "429129447",
+                "Turnover (Rs. Cr.)": "4070.83",
+                "P/E": "27.64",
+                "P/B": "2.07",
+                "Div Yield": "1.04"
+            }
+        },
+        {
+            "Nifty Total Market": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "8512.3",
+                "High Index Value": "8541.6",
+                "Low Index Value": "8504.25",
+                "Closing Index Value": "8526.35",
+                "Points Change": "46.0",
+                "Change(%)": ".54",
+                "Volume": "2608489960",
+                "Turnover (Rs. Cr.)": "56469.39",
+                "P/E": "22.01",
+                "P/B": "3.91",
+                "Div Yield": "1.37"
+            }
+        },
+        {
+            "Nifty India Digital": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "5259.3",
+                "High Index Value": "5299.5",
+                "Low Index Value": "5248.5",
+                "Closing Index Value": "5277.95",
+                "Points Change": "30.0",
+                "Change(%)": ".57",
+                "Volume": "259553625",
+                "Turnover (Rs. Cr.)": "6720.03",
+                "P/E": "163.99",
+                "P/B": "7.43",
+                "Div Yield": "1.4"
+            }
+        },
+        {
+            "Nifty Mobility": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "-",
+                "High Index Value": "-",
+                "Low Index Value": "-",
+                "Closing Index Value": "11101.79",
+                "Points Change": "60.34",
+                "Change(%)": ".55",
+                "Volume": "204888267",
+                "Turnover (Rs. Cr.)": "6807.14",
+                "P/E": "40.48",
+                "P/B": "4.85",
+                "Div Yield": "1.05"
+            }
+        },
+        {
+            "Nifty India Defence": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "-",
+                "High Index Value": "-",
+                "Low Index Value": "-",
+                "Closing Index Value": "2330.39",
+                "Points Change": "30.06",
+                "Change(%)": "1.31",
+                "Volume": "23109751",
+                "Turnover (Rs. Cr.)": "952.04",
+                "P/E": "27.17",
+                "P/B": "6.24",
+                "Div Yield": "1.07"
+            }
+        },
+        {
+            "Nifty Financial Services Ex-Bank": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "-",
+                "High Index Value": "-",
+                "Low Index Value": "-",
+                "Closing Index Value": "16841.77",
+                "Points Change": "94.16",
+                "Change(%)": ".56",
+                "Volume": "126559848",
+                "Turnover (Rs. Cr.)": "5707.29",
+                "P/E": "17.98",
+                "P/B": "4.06",
+                "Div Yield": "1.11"
+            }
+        },
+        {
+            "Nifty Housing": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "-",
+                "High Index Value": "-",
+                "Low Index Value": "-",
+                "Closing Index Value": "7860.33",
+                "Points Change": "46.01",
+                "Change(%)": ".59",
+                "Volume": "518122285",
+                "Turnover (Rs. Cr.)": "15563.23",
+                "P/E": "20.09",
+                "P/B": "3.14",
+                "Div Yield": "1.24"
+            }
+        },
+        {
+            "Nifty Transportation & Logistics": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "-",
+                "High Index Value": "-",
+                "Low Index Value": "-",
+                "Closing Index Value": "12504.84",
+                "Points Change": "73.92",
+                "Change(%)": ".59",
+                "Volume": "174578869",
+                "Turnover (Rs. Cr.)": "5024.94",
+                "P/E": "38.75",
+                "P/B": "5.29",
+                "Div Yield": ".87"
+            }
+        },
+        {
+            "Nifty MidSmall Financial Services": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "-",
+                "High Index Value": "-",
+                "Low Index Value": "-",
+                "Closing Index Value": "8721.91",
+                "Points Change": "86.7",
+                "Change(%)": "1",
+                "Volume": "422631781",
+                "Turnover (Rs. Cr.)": "4315.07",
+                "P/E": "11.82",
+                "P/B": "1.71",
+                "Div Yield": "1.64"
+            }
+        },
+        {
+            "Nifty MidSmall Healthcare": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "-",
+                "High Index Value": "-",
+                "Low Index Value": "-",
+                "Closing Index Value": "20985.43",
+                "Points Change": "102.63",
+                "Change(%)": ".49",
+                "Volume": "26584625",
+                "Turnover (Rs. Cr.)": "1232.15",
+                "P/E": "35.43",
+                "P/B": "3.59",
+                "Div Yield": ".87"
+            }
+        },
+        {
+            "Nifty MidSmall IT & Telecom": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "-",
+                "High Index Value": "-",
+                "Low Index Value": "-",
+                "Closing Index Value": "6341.26",
+                "Points Change": "25.57",
+                "Change(%)": ".4",
+                "Volume": "96301010",
+                "Turnover (Rs. Cr.)": "1623.26",
+                "P/E": "464.94",
+                "P/B": "30.52",
+                "Div Yield": "1.23"
+            }
+        },
+        {
+            "Nifty MidSmall India Consumption": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "-",
+                "High Index Value": "-",
+                "Low Index Value": "-",
+                "Closing Index Value": "10695.84",
+                "Points Change": "109.46",
+                "Change(%)": "1.03",
+                "Volume": "39448315",
+                "Turnover (Rs. Cr.)": "2236.84",
+                "P/E": "48.52",
+                "P/B": "5.9",
+                "Div Yield": ".61"
+            }
+        },
+        {
+            "Nifty REITs & InvITs": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "-",
+                "High Index Value": "-",
+                "Low Index Value": "-",
+                "Closing Index Value": "1038.51",
+                "Points Change": "7.62",
+                "Change(%)": ".74",
+                "Volume": "2116556",
+                "Turnover (Rs. Cr.)": "45.76",
+                "P/E": "58.3",
+                "P/B": "1.17",
+                "Div Yield": "7.93"
+            }
+        },
+        {
+            "Nifty Consumer Durables": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "24410.45",
+                "High Index Value": "24449.35",
+                "Low Index Value": "24280.05",
+                "Closing Index Value": "24351.0",
+                "Points Change": "74.65",
+                "Change(%)": ".31",
+                "Volume": "11444973",
+                "Turnover (Rs. Cr.)": "822.76",
+                "P/E": "58.12",
+                "P/B": "10.34",
+                "Div Yield": ".62"
+            }
+        },
+        {
+            "Nifty Non-Cyclical Consumer": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "-",
+                "High Index Value": "-",
+                "Low Index Value": "-",
+                "Closing Index Value": "10642.43",
+                "Points Change": "17.73",
+                "Change(%)": ".17",
+                "Volume": "199940178",
+                "Turnover (Rs. Cr.)": "6038.04",
+                "P/E": "56.46",
+                "P/B": "10.46",
+                "Div Yield": ".95"
+            }
+        },
+        {
+            "Nifty India Manufacturing": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "8363.2",
+                "High Index Value": "8409.45",
+                "Low Index Value": "8359.2",
+                "Closing Index Value": "8396.3",
+                "Points Change": "55.65",
+                "Change(%)": ".67",
+                "Volume": "201790026",
+                "Turnover (Rs. Cr.)": "9779.49",
+                "P/E": "25.28",
+                "P/B": "3.93",
+                "Div Yield": "1.82"
+            }
+        },
+        {
+            "NIFTY100 Alpha 30": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "-",
+                "High Index Value": "-",
+                "Low Index Value": "-",
+                "Closing Index Value": "10833.89",
+                "Points Change": "46.73",
+                "Change(%)": ".43",
+                "Volume": "158857623",
+                "Turnover (Rs. Cr.)": "13064.94",
+                "P/E": "17.84",
+                "P/B": "3.93",
+                "Div Yield": "1.68"
+            }
+        },
+        {
+            "NIFTY500 Value 50": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "-",
+                "High Index Value": "-",
+                "Low Index Value": "-",
+                "Closing Index Value": "7419.36",
+                "Points Change": "95.55",
+                "Change(%)": "1.3",
+                "Volume": "578773135",
+                "Turnover (Rs. Cr.)": "6148.58",
+                "P/E": "7.88",
+                "P/B": "1.24",
+                "Div Yield": "5.33"
+            }
+        },
+        {
+            "Nifty100 Low Volatility 30": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "13496.2",
+                "High Index Value": "13552.3",
+                "Low Index Value": "13484.8",
+                "Closing Index Value": "13521.7",
+                "Points Change": "44.95",
+                "Change(%)": ".33",
+                "Volume": "105147322",
+                "Turnover (Rs. Cr.)": "12049.51",
+                "P/E": "27.08",
+                "P/B": "5.05",
+                "Div Yield": "1.81"
+            }
+        },
+        {
+            "NIFTY Alpha Low-Volatility 30": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "17626.8",
+                "High Index Value": "17678.85",
+                "Low Index Value": "17610.85",
+                "Closing Index Value": "17637.5",
+                "Points Change": "66.15",
+                "Change(%)": ".38",
+                "Volume": "118891835",
+                "Turnover (Rs. Cr.)": "9824.83",
+                "P/E": "22.22",
+                "P/B": "4.92",
+                "Div Yield": "1.69"
+            }
+        },
+        {
+            "NIFTY Quality Low-Volatility 30": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "-",
+                "High Index Value": "-",
+                "Low Index Value": "-",
+                "Closing Index Value": "12536.46",
+                "Points Change": "29.38",
+                "Change(%)": ".23",
+                "Volume": "67552814",
+                "Turnover (Rs. Cr.)": "8516.19",
+                "P/E": "26.9",
+                "P/B": "6.84",
+                "Div Yield": "2.16"
+            }
+        },
+        {
+            "NIFTY Alpha Quality Low-Volatility 30": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "-",
+                "High Index Value": "-",
+                "Low Index Value": "-",
+                "Closing Index Value": "14457.18",
+                "Points Change": "48.39",
+                "Change(%)": ".34",
+                "Volume": "83933381",
+                "Turnover (Rs. Cr.)": "7418.79",
+                "P/E": "20.51",
+                "P/B": "5.88",
+                "Div Yield": "2.19"
+            }
+        },
+        {
+            "NIFTY Alpha Quality Value Low-Volatility 30": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "-",
+                "High Index Value": "-",
+                "Low Index Value": "-",
+                "Closing Index Value": "11979.61",
+                "Points Change": "65.19",
+                "Change(%)": ".55",
+                "Volume": "118807153",
+                "Turnover (Rs. Cr.)": "6847.35",
+                "P/E": "14.99",
+                "P/B": "4.13",
+                "Div Yield": "2.88"
+            }
+        },
+        {
+            "NIFTY200 Quality 30": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "14623.25",
+                "High Index Value": "14684.8",
+                "Low Index Value": "14611.15",
+                "Closing Index Value": "14644.25",
+                "Points Change": "47.95",
+                "Change(%)": ".33",
+                "Volume": "51005896",
+                "Turnover (Rs. Cr.)": "5924.05",
+                "P/E": "25.22",
+                "P/B": "9.09",
+                "Div Yield": "2.49"
+            }
+        },
+        {
+            "NIFTY Midcap150 Quality 50": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "16036.65",
+                "High Index Value": "16075.25",
+                "Low Index Value": "16001.55",
+                "Closing Index Value": "16023.6",
+                "Points Change": "39.65",
+                "Change(%)": ".25",
+                "Volume": "30445208",
+                "Turnover (Rs. Cr.)": "2776.64",
+                "P/E": "29.27",
+                "P/B": "7.41",
+                "Div Yield": "1.85"
+            }
+        },
+        {
+            "Nifty200 Momentum 30": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "19411.3",
+                "High Index Value": "19514.3",
+                "Low Index Value": "19383.1",
+                "Closing Index Value": "19462.05",
+                "Points Change": "146.3",
+                "Change(%)": ".76",
+                "Volume": "330947560",
+                "Turnover (Rs. Cr.)": "9919.48",
+                "P/E": "17.09",
+                "P/B": "3.05",
+                "Div Yield": "1.4"
+            }
+        },
+        {
+            "Nifty100 ESG Sector Leaders": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "2904.35",
+                "High Index Value": "2914.2",
+                "Low Index Value": "2900",
+                "Closing Index Value": "2908.95",
+                "Points Change": "15.7",
+                "Change(%)": ".54",
+                "Volume": "215695317",
+                "Turnover (Rs. Cr.)": "19010.96",
+                "P/E": "24.01",
+                "P/B": "4.64",
+                "Div Yield": "1.22"
+            }
+        },
+        {
+            "Nifty200 Alpha 30": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "-",
+                "High Index Value": "-",
+                "Low Index Value": "-",
+                "Closing Index Value": "13701.29",
+                "Points Change": "165.86",
+                "Change(%)": "1.23",
+                "Volume": "354077805",
+                "Turnover (Rs. Cr.)": "8549.72",
+                "P/E": "15.03",
+                "P/B": "2.46",
+                "Div Yield": "1.48"
+            }
+        },
+        {
+            "Nifty Midcap150 Momentum 50": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "-",
+                "High Index Value": "-",
+                "Low Index Value": "-",
+                "Closing Index Value": "33056.97",
+                "Points Change": "318.34",
+                "Change(%)": ".97",
+                "Volume": "587543265",
+                "Turnover (Rs. Cr.)": "5319.44",
+                "P/E": "22.59",
+                "P/B": "2.81",
+                "Div Yield": ".72"
+            }
+        },
+        {
+            "Nifty Smallcap250 Quality 50": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "-",
+                "High Index Value": "-",
+                "Low Index Value": "-",
+                "Closing Index Value": "15877.57",
+                "Points Change": "108.13",
+                "Change(%)": ".69",
+                "Volume": "41618970",
+                "Turnover (Rs. Cr.)": "1802.58",
+                "P/E": "19.63",
+                "P/B": "4.36",
+                "Div Yield": "1.57"
+            }
+        },
+        {
+            "NIFTY100 ESG": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "3342.25",
+                "High Index Value": "3357.1",
+                "Low Index Value": "3338",
+                "Closing Index Value": "3352.35",
+                "Points Change": "20.95",
+                "Change(%)": ".63",
+                "Volume": "456652377",
+                "Turnover (Rs. Cr.)": "27463.01",
+                "P/E": "26.16",
+                "P/B": "5.24",
+                "Div Yield": "1.43"
+            }
+        },
+        {
+            "NIFTY100 Enhanced ESG": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "-",
+                "High Index Value": "-",
+                "Low Index Value": "-",
+                "Closing Index Value": "3380.57",
+                "Points Change": "21.03",
+                "Change(%)": ".63",
+                "Volume": "445196419",
+                "Turnover (Rs. Cr.)": "27110.53",
+                "P/E": "26.71",
+                "P/B": "5.25",
+                "Div Yield": "1.41"
+            }
+        },
+        {
+            "NIFTY50 Equal Weight": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "20736.7",
+                "High Index Value": "20830.2",
+                "Low Index Value": "20716.9",
+                "Closing Index Value": "20797.55",
+                "Points Change": "118.9",
+                "Change(%)": ".57",
+                "Volume": "265216308",
+                "Turnover (Rs. Cr.)": "23615.47",
+                "P/E": "20.14",
+                "P/B": "4.01",
+                "Div Yield": "1.71"
+            }
+        },
+        {
+            "Nifty 50 Futures Index": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "-",
+                "High Index Value": "-",
+                "Low Index Value": "-",
+                "Closing Index Value": "5540.64",
+                "Points Change": "31.03",
+                "Change(%)": ".56",
+                "Volume": "-",
+                "Turnover (Rs. Cr.)": "-",
+                "P/E": "-",
+                "P/B": "-",
+                "Div Yield": "-"
+            }
+        },
+        {
+            "Nifty 50 Arbitrage": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "-",
+                "High Index Value": "-",
+                "Low Index Value": "-",
+                "Closing Index Value": "2140.14",
+                "Points Change": "-0.96",
+                "Change(%)": "-.05",
+                "Volume": "-",
+                "Turnover (Rs. Cr.)": "-",
+                "P/E": "-",
+                "P/B": "-",
+                "Div Yield": "-"
+            }
+        },
+        {
+            "Nifty Aditya Birla Group": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "-",
+                "High Index Value": "-",
+                "Low Index Value": "-",
+                "Closing Index Value": "5433.74",
+                "Points Change": "7.74",
+                "Change(%)": ".14",
+                "Volume": "90277552",
+                "Turnover (Rs. Cr.)": "861.64",
+                "P/E": "92.61",
+                "P/B": "5.56",
+                "Div Yield": ".55"
+            }
+        },
+        {
+            "Nifty 8-13 yr G-Sec": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "2419.45",
+                "High Index Value": "2419.96",
+                "Low Index Value": "2416.64",
+                "Closing Index Value": "2419.96",
+                "Points Change": "0.97",
+                "Change(%)": ".04",
+                "Volume": "-",
+                "Turnover (Rs. Cr.)": "-",
+                "P/E": "-",
+                "P/B": "-",
+                "Div Yield": "-"
+            }
+        },
+        {
+            "Nifty 4-8 yr G-Sec Index": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "2632.01",
+                "High Index Value": "2632.01",
+                "Low Index Value": "2629.48",
+                "Closing Index Value": "2631.73",
+                "Points Change": "0.23",
+                "Change(%)": ".01",
+                "Volume": "-",
+                "Turnover (Rs. Cr.)": "-",
+                "P/E": "-",
+                "P/B": "-",
+                "Div Yield": "-"
+            }
+        },
+        {
+            "Nifty 11-15 yr G-Sec Index": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "2648.33",
+                "High Index Value": "2650.13",
+                "Low Index Value": "2645.64",
+                "Closing Index Value": "2650.13",
+                "Points Change": "2.31",
+                "Change(%)": ".09",
+                "Volume": "-",
+                "Turnover (Rs. Cr.)": "-",
+                "P/E": "-",
+                "P/B": "-",
+                "Div Yield": "-"
+            }
+        },
+        {
+            "Nifty 15 yr and above G-Sec Index": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "2907.89",
+                "High Index Value": "2909.81",
+                "Low Index Value": "2907.44",
+                "Closing Index Value": "2909.81",
+                "Points Change": "2.49",
+                "Change(%)": ".09",
+                "Volume": "-",
+                "Turnover (Rs. Cr.)": "-",
+                "P/E": "-",
+                "P/B": "-",
+                "Div Yield": "-"
+            }
+        },
+        {
+            "Nifty Composite G-sec Index": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "2498.61",
+                "High Index Value": "2499.18",
+                "Low Index Value": "2496.28",
+                "Closing Index Value": "2499.18",
+                "Points Change": "1.04",
+                "Change(%)": ".04",
+                "Volume": "-",
+                "Turnover (Rs. Cr.)": "-",
+                "P/E": "-",
+                "P/B": "-",
+                "Div Yield": "-"
+            }
+        },
+        {
+            "Nifty 10 yr Benchmark G-Sec": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "2145.32",
+                "High Index Value": "2146.83",
+                "Low Index Value": "2142.27",
+                "Closing Index Value": "2146.83",
+                "Points Change": "1.93",
+                "Change(%)": ".09",
+                "Volume": "-",
+                "Turnover (Rs. Cr.)": "-",
+                "P/E": "-",
+                "P/B": "-",
+                "Div Yield": "-"
+            }
+        },
+        {
+            "Nifty 10 yr Benchmark G-Sec (Clean Price)": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "876.16",
+                "High Index Value": "876.79",
+                "Low Index Value": "874.9",
+                "Closing Index Value": "876.79",
+                "Points Change": "0.62",
+                "Change(%)": ".07",
+                "Volume": "-",
+                "Turnover (Rs. Cr.)": "-",
+                "P/E": "-",
+                "P/B": "-",
+                "Div Yield": "-"
+            }
+        },
+        {
+            "Nifty 1D Rate Index": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "-",
+                "High Index Value": "-",
+                "Low Index Value": "-",
+                "Closing Index Value": "2127.42",
+                "Points Change": "1.57",
+                "Change(%)": ".07",
+                "Volume": "-",
+                "Turnover (Rs. Cr.)": "-",
+                "P/E": "-",
+                "P/B": "-",
+                "Div Yield": "-"
+            }
+        },
+        {
+            "Nifty50 USD": {
+                "Index Date": "02-05-2023",
+                "Open Index Value": "-",
+                "High Index Value": "-",
+                "Low Index Value": "-",
+                "Closing Index Value": "7678.32",
+                "Points Change": "29.49",
+                "Change(%)": ".39",
+                "Volume": "-",
+                "Turnover (Rs. Cr.)": "-",
+                "P/E": "-",
+                "P/B": "-",
+                "Div Yield": "-"
+            }
+        }
+    ],
+    "ind_close_all_03052023": [
+        {
+            "Nifty 50": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "18113.8",
+                "High Index Value": "18116.35",
+                "Low Index Value": "18042.4",
+                "Closing Index Value": "18089.85",
+                "Points Change": "-57.8",
+                "Change(%)": "-.32",
+                "Volume": "226171254",
+                "Turnover (Rs. Cr.)": "19079.79",
+                "P/E": "21.33",
+                "P/B": "4.23",
+                "Div Yield": "1.38"
+            }
+        },
+        {
+            "Nifty Next 50": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "39731.4",
+                "High Index Value": "39931.8",
+                "Low Index Value": "39658.3",
+                "Closing Index Value": "39845.15",
+                "Points Change": "70.65",
+                "Change(%)": ".18",
+                "Volume": "225457410",
+                "Turnover (Rs. Cr.)": "7822.96",
+                "P/E": "27.03",
+                "P/B": "4.43",
+                "Div Yield": "1.94"
+            }
+        },
+        {
+            "Nifty 100": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "17958.15",
+                "High Index Value": "17971.25",
+                "Low Index Value": "17895.35",
+                "Closing Index Value": "17941.1",
+                "Points Change": "-48.2",
+                "Change(%)": "-.27",
+                "Volume": "451628664",
+                "Turnover (Rs. Cr.)": "26902.75",
+                "P/E": "22.15",
+                "P/B": "4.31",
+                "Div Yield": "1.43"
+            }
+        },
+        {
+            "Nifty 200": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "9438.9",
+                "High Index Value": "9452.6",
+                "Low Index Value": "9412.1",
+                "Closing Index Value": "9436.35",
+                "Points Change": "-18.65",
+                "Change(%)": "-.2",
+                "Volume": "1377858552",
+                "Turnover (Rs. Cr.)": "37527.24",
+                "P/E": "22.27",
+                "P/B": "4.03",
+                "Div Yield": "1.41"
+            }
+        },
+        {
+            "Nifty 500": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "15277.75",
+                "High Index Value": "15305.05",
+                "Low Index Value": "15239.5",
+                "Closing Index Value": "15276.4",
+                "Points Change": "-24.35",
+                "Change(%)": "-.16",
+                "Volume": "2173387111",
+                "Turnover (Rs. Cr.)": "48872.14",
+                "P/E": "22.19",
+                "P/B": "4",
+                "Div Yield": "1.38"
+            }
+        },
+        {
+            "Nifty Midcap 50": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "9046.65",
+                "High Index Value": "9099.85",
+                "Low Index Value": "9032.15",
+                "Closing Index Value": "9065.85",
+                "Points Change": "3.65",
+                "Change(%)": ".04",
+                "Volume": "276250253",
+                "Turnover (Rs. Cr.)": "5481.31",
+                "P/E": "22.83",
+                "P/B": "2.64",
+                "Div Yield": "1.34"
+            }
+        },
+        {
+            "NIFTY Midcap 100": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "32053.25",
+                "High Index Value": "32257.8",
+                "Low Index Value": "31982.2",
+                "Closing Index Value": "32186.2",
+                "Points Change": "84.4",
+                "Change(%)": ".26",
+                "Volume": "926229888",
+                "Turnover (Rs. Cr.)": "10624.49",
+                "P/E": "23.07",
+                "P/B": "2.86",
+                "Div Yield": "1.3"
+            }
+        },
+        {
+            "NIFTY Smallcap 100": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "9737.25",
+                "High Index Value": "9782.8",
+                "Low Index Value": "9716.4",
+                "Closing Index Value": "9732.55",
+                "Points Change": "-6.55",
+                "Change(%)": "-.07",
+                "Volume": "543055128",
+                "Turnover (Rs. Cr.)": "6590.88",
+                "P/E": "17.34",
+                "P/B": "2.98",
+                "Div Yield": "1.44"
+            }
+        },
+        {
+            "Nifty50 Dividend Points": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "-",
+                "High Index Value": "-",
+                "Low Index Value": "-",
+                "Closing Index Value": "7.1",
+                "Points Change": "0.0",
+                "Change(%)": "-",
+                "Volume": "-",
+                "Turnover (Rs. Cr.)": "-",
+                "P/E": "-",
+                "P/B": "-",
+                "Div Yield": "-"
+            }
+        },
+        {
+            "Nifty Auto": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "13273.2",
+                "High Index Value": "13289.25",
+                "Low Index Value": "13215.95",
+                "Closing Index Value": "13278.6",
+                "Points Change": "-4.55",
+                "Change(%)": "-.03",
+                "Volume": "25489324",
+                "Turnover (Rs. Cr.)": "2496.65",
+                "P/E": "32.85",
+                "P/B": "5.14",
+                "Div Yield": "1"
+            }
+        },
+        {
+            "Nifty Bank": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "43154.85",
+                "High Index Value": "43354.95",
+                "Low Index Value": "43078.15",
+                "Closing Index Value": "43312.7",
+                "Points Change": "-39.4",
+                "Change(%)": "-.09",
+                "Volume": "175911031",
+                "Turnover (Rs. Cr.)": "8162.64",
+                "P/E": "16.96",
+                "P/B": "2.81",
+                "Div Yield": ".66"
+            }
+        },
+        {
+            "Nifty Energy": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "24049",
+                "High Index Value": "24067.65",
+                "Low Index Value": "23877.5",
+                "Closing Index Value": "23901.15",
+                "Points Change": "-145.8",
+                "Change(%)": "-.61",
+                "Volume": "58229717",
+                "Turnover (Rs. Cr.)": "1993.31",
+                "P/E": "12.52",
+                "P/B": "2.19",
+                "Div Yield": "3.18"
+            }
+        },
+        {
+            "Nifty Financial Services": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "19151.55",
+                "High Index Value": "19200.45",
+                "Low Index Value": "19091.8",
+                "Closing Index Value": "19182.25",
+                "Points Change": "-25.8",
+                "Change(%)": "-.13",
+                "Volume": "99682700",
+                "Turnover (Rs. Cr.)": "8965.95",
+                "P/E": "18.47",
+                "P/B": "3.72",
+                "Div Yield": ".74"
+            }
+        },
+        {
+            "Nifty FMCG": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "47754.7",
+                "High Index Value": "48207.9",
+                "Low Index Value": "47638.15",
+                "Closing Index Value": "48120.65",
+                "Points Change": "370.45",
+                "Change(%)": ".78",
+                "Volume": "22591998",
+                "Turnover (Rs. Cr.)": "2155.95",
+                "P/E": "42.93",
+                "P/B": "11.95",
+                "Div Yield": "1.74"
+            }
+        },
+        {
+            "Nifty IT": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "27872.4",
+                "High Index Value": "27883.45",
+                "Low Index Value": "27693.3",
+                "Closing Index Value": "27743.75",
+                "Points Change": "-281.25",
+                "Change(%)": "-1",
+                "Volume": "16125748",
+                "Turnover (Rs. Cr.)": "2667.43",
+                "P/E": "24.13",
+                "P/B": "7.77",
+                "Div Yield": "2.68"
+            }
+        },
+        {
+            "Nifty Media": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "1721",
+                "High Index Value": "1737.65",
+                "Low Index Value": "1717.9",
+                "Closing Index Value": "1727.9",
+                "Points Change": "4.8",
+                "Change(%)": ".28",
+                "Volume": "24874022",
+                "Turnover (Rs. Cr.)": "317.91",
+                "P/E": "-",
+                "P/B": "2.65",
+                "Div Yield": ".74"
+            }
+        },
+        {
+            "Nifty Metal": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "5856.3",
+                "High Index Value": "5869.05",
+                "Low Index Value": "5787.1",
+                "Closing Index Value": "5824.25",
+                "Points Change": "-57.75",
+                "Change(%)": "-.98",
+                "Volume": "101426854",
+                "Turnover (Rs. Cr.)": "2514.63",
+                "P/E": "12.16",
+                "P/B": "1.84",
+                "Div Yield": "5.2"
+            }
+        },
+        {
+            "Nifty MNC": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "19834.95",
+                "High Index Value": "19950.15",
+                "Low Index Value": "19794.5",
+                "Closing Index Value": "19905.75",
+                "Points Change": "51.5",
+                "Change(%)": ".26",
+                "Volume": "28305868",
+                "Turnover (Rs. Cr.)": "2802.97",
+                "P/E": "33.76",
+                "P/B": "7.27",
+                "Div Yield": "3.21"
+            }
+        },
+        {
+            "Nifty Pharma": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "12581.6",
+                "High Index Value": "12634.8",
+                "Low Index Value": "12549.2",
+                "Closing Index Value": "12586.8",
+                "Points Change": "-3.5",
+                "Change(%)": "-.03",
+                "Volume": "17230391",
+                "Turnover (Rs. Cr.)": "1288.46",
+                "P/E": "33.26",
+                "P/B": "4.3",
+                "Div Yield": "1.03"
+            }
+        },
+        {
+            "Nifty PSU Bank": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "4127.25",
+                "High Index Value": "4155.9",
+                "Low Index Value": "4110.35",
+                "Closing Index Value": "4143.2",
+                "Points Change": "-40.9",
+                "Change(%)": "-.98",
+                "Volume": "163500455",
+                "Turnover (Rs. Cr.)": "1712.6",
+                "P/E": "9.4",
+                "P/B": "1.11",
+                "Div Yield": "1.56"
+            }
+        },
+        {
+            "Nifty Realty": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "444.5",
+                "High Index Value": "450.2",
+                "Low Index Value": "443.2",
+                "Closing Index Value": "446.2",
+                "Points Change": "1.25",
+                "Change(%)": ".28",
+                "Volume": "15790107",
+                "Turnover (Rs. Cr.)": "776.7",
+                "P/E": "40.67",
+                "P/B": "3.32",
+                "Div Yield": ".31"
+            }
+        },
+        {
+            "Nifty India Consumption": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "7530.4",
+                "High Index Value": "7558.3",
+                "Low Index Value": "7507.1",
+                "Closing Index Value": "7536.85",
+                "Points Change": "14.2",
+                "Change(%)": ".19",
+                "Volume": "64190521",
+                "Turnover (Rs. Cr.)": "5484.67",
+                "P/E": "38.57",
+                "P/B": "8.19",
+                "Div Yield": "1.12"
+            }
+        },
+        {
+            "Nifty Commodities": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "5836.05",
+                "High Index Value": "5840.6",
+                "Low Index Value": "5807.1",
+                "Closing Index Value": "5828.4",
+                "Points Change": "-16.85",
+                "Change(%)": "-.29",
+                "Volume": "174852068",
+                "Turnover (Rs. Cr.)": "5378.43",
+                "P/E": "14.2",
+                "P/B": "2.23",
+                "Div Yield": "3.1"
+            }
+        },
+        {
+            "Nifty Dividend Opportunities 50": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "3976.85",
+                "High Index Value": "3989.65",
+                "Low Index Value": "3967.85",
+                "Closing Index Value": "3981.05",
+                "Points Change": "-6.55",
+                "Change(%)": "-.16",
+                "Volume": "659174977",
+                "Turnover (Rs. Cr.)": "9316.92",
+                "P/E": "15.18",
+                "P/B": "2.81",
+                "Div Yield": "4.02"
+            }
+        },
+        {
+            "Nifty Infrastructure": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "5392.95",
+                "High Index Value": "5393.85",
+                "Low Index Value": "5354.05",
+                "Closing Index Value": "5363.6",
+                "Points Change": "-23.6",
+                "Change(%)": "-.44",
+                "Volume": "132151237",
+                "Turnover (Rs. Cr.)": "6895.85",
+                "P/E": "21.96",
+                "P/B": "3.02",
+                "Div Yield": "1.46"
+            }
+        },
+        {
+            "Nifty PSE": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "4756.4",
+                "High Index Value": "4789.15",
+                "Low Index Value": "4746.45",
+                "Closing Index Value": "4771.55",
+                "Points Change": "12.95",
+                "Change(%)": ".27",
+                "Volume": "226832475",
+                "Turnover (Rs. Cr.)": "3299.2",
+                "P/E": "9.13",
+                "P/B": "1.52",
+                "Div Yield": "4.71"
+            }
+        },
+        {
+            "Nifty Services Sector": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "23754",
+                "High Index Value": "23769.55",
+                "Low Index Value": "23674.15",
+                "Closing Index Value": "23734.7",
+                "Points Change": "-94.25",
+                "Change(%)": "-.4",
+                "Volume": "129324221",
+                "Turnover (Rs. Cr.)": "12116.45",
+                "P/E": "20.27",
+                "P/B": "4.19",
+                "Div Yield": "1.31"
+            }
+        },
+        {
+            "Nifty50 Shariah": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "-",
+                "High Index Value": "-",
+                "Low Index Value": "-",
+                "Closing Index Value": "3725.52",
+                "Points Change": "-12.8",
+                "Change(%)": "-.34",
+                "Volume": "97935048",
+                "Turnover (Rs. Cr.)": "6087.17",
+                "P/E": "20.94",
+                "P/B": "4.97",
+                "Div Yield": "2.54"
+            }
+        },
+        {
+            "Nifty500 Shariah": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "-",
+                "High Index Value": "-",
+                "Low Index Value": "-",
+                "Closing Index Value": "4988.5",
+                "Points Change": "-3.36",
+                "Change(%)": "-.07",
+                "Volume": "494108089",
+                "Turnover (Rs. Cr.)": "17651.83",
+                "P/E": "24.33",
+                "P/B": "4.96",
+                "Div Yield": "1.79"
+            }
+        },
+        {
+            "Nifty Low Volatility 50": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "-",
+                "High Index Value": "-",
+                "Low Index Value": "-",
+                "Closing Index Value": "16248.91",
+                "Points Change": "18.66",
+                "Change(%)": ".11",
+                "Volume": "130049307",
+                "Turnover (Rs. Cr.)": "13801.84",
+                "P/E": "29.46",
+                "P/B": "4.94",
+                "Div Yield": "1.56"
+            }
+        },
+        {
+            "Nifty Alpha 50": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "27781.4",
+                "High Index Value": "28040.3",
+                "Low Index Value": "27727.25",
+                "Closing Index Value": "28008.9",
+                "Points Change": "167.4",
+                "Change(%)": ".6",
+                "Volume": "453160185",
+                "Turnover (Rs. Cr.)": "8127.74",
+                "P/E": "16.14",
+                "P/B": "2.35",
+                "Div Yield": "1.4"
+            }
+        },
+        {
+            "Nifty High Beta 50": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "-",
+                "High Index Value": "-",
+                "Low Index Value": "-",
+                "Closing Index Value": "2254.74",
+                "Points Change": "-7.35",
+                "Change(%)": "-.32",
+                "Volume": "544784565",
+                "Turnover (Rs. Cr.)": "10841.39",
+                "P/E": "16.17",
+                "P/B": "1.83",
+                "Div Yield": "1.89"
+            }
+        },
+        {
+            "Nifty100 Equal Weight": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "20373.5",
+                "High Index Value": "20424.95",
+                "Low Index Value": "20302.1",
+                "Closing Index Value": "20349.15",
+                "Points Change": "-51.9",
+                "Change(%)": "-.25",
+                "Volume": "451628664",
+                "Turnover (Rs. Cr.)": "26902.75",
+                "P/E": "24.03",
+                "P/B": "4.31",
+                "Div Yield": "1.67"
+            }
+        },
+        {
+            "Nifty100 Liquid 15": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "4548.8",
+                "High Index Value": "4549.9",
+                "Low Index Value": "4510.75",
+                "Closing Index Value": "4520.65",
+                "Points Change": "-40.2",
+                "Change(%)": "-.88",
+                "Volume": "111866847",
+                "Turnover (Rs. Cr.)": "7225.21",
+                "P/E": "21.43",
+                "P/B": "3.48",
+                "Div Yield": "1.01"
+            }
+        },
+        {
+            "Nifty CPSE": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "3100.15",
+                "High Index Value": "3124.05",
+                "Low Index Value": "3091.9",
+                "Closing Index Value": "3114.6",
+                "Points Change": "6.65",
+                "Change(%)": ".21",
+                "Volume": "112945347",
+                "Turnover (Rs. Cr.)": "1172.42",
+                "P/E": "7.51",
+                "P/B": "1.76",
+                "Div Yield": "5.95"
+            }
+        },
+        {
+            "Nifty50 Value 20": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "9329.75",
+                "High Index Value": "9352.6",
+                "Low Index Value": "9304.35",
+                "Closing Index Value": "9334.8",
+                "Points Change": "-26.95",
+                "Change(%)": "-.29",
+                "Volume": "115012250",
+                "Turnover (Rs. Cr.)": "4902.91",
+                "P/E": "17.48",
+                "P/B": "3.98",
+                "Div Yield": "3.22"
+            }
+        },
+        {
+            "Nifty Midcap Liquid 15": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "7753.6",
+                "High Index Value": "7803.4",
+                "Low Index Value": "7738.55",
+                "Closing Index Value": "7761.35",
+                "Points Change": "-2.6",
+                "Change(%)": "-.03",
+                "Volume": "49465765",
+                "Turnover (Rs. Cr.)": "2043.52",
+                "P/E": "22.59",
+                "P/B": "3.06",
+                "Div Yield": ".73"
+            }
+        },
+        {
+            "Nifty Shariah 25": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "-",
+                "High Index Value": "-",
+                "Low Index Value": "-",
+                "Closing Index Value": "6042.56",
+                "Points Change": "-15.38",
+                "Change(%)": "-.25",
+                "Volume": "79306666",
+                "Turnover (Rs. Cr.)": "6171.98",
+                "P/E": "20.89",
+                "P/B": "5.54",
+                "Div Yield": "2.4"
+            }
+        },
+        {
+            "India VIX": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "11.8975",
+                "High Index Value": "12.25",
+                "Low Index Value": "11.13",
+                "Closing Index Value": "11.84",
+                "Points Change": "-0.06",
+                "Change(%)": "-.48",
+                "Volume": "-",
+                "Turnover (Rs. Cr.)": "-",
+                "P/E": "-",
+                "P/B": "-",
+                "Div Yield": "-"
+            }
+        },
+        {
+            "Nifty Growth Sectors 15": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "8836.8",
+                "High Index Value": "8854.15",
+                "Low Index Value": "8803.1",
+                "Closing Index Value": "8836.7",
+                "Points Change": "-8.15",
+                "Change(%)": "-.09",
+                "Volume": "30207529",
+                "Turnover (Rs. Cr.)": "3770.73",
+                "P/E": "32.95",
+                "P/B": "8.18",
+                "Div Yield": "2.08"
+            }
+        },
+        {
+            "Nifty50 TR 1x Inverse": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "214.65",
+                "High Index Value": "215.5",
+                "Low Index Value": "214.65",
+                "Closing Index Value": "214.95",
+                "Points Change": "0.7",
+                "Change(%)": ".33",
+                "Volume": "-",
+                "Turnover (Rs. Cr.)": "-",
+                "P/E": "-",
+                "P/B": "-",
+                "Div Yield": "-"
+            }
+        },
+        {
+            "Nifty50 TR 2x Leverage": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "12149.7",
+                "High Index Value": "12152.95",
+                "Low Index Value": "12055",
+                "Closing Index Value": "12117.5",
+                "Points Change": "-79.95",
+                "Change(%)": "-.66",
+                "Volume": "-",
+                "Turnover (Rs. Cr.)": "-",
+                "P/E": "-",
+                "P/B": "-",
+                "Div Yield": "-"
+            }
+        },
+        {
+            "Nifty50 PR 1x Inverse": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "253.75",
+                "High Index Value": "254.7",
+                "Low Index Value": "253.7",
+                "Closing Index Value": "254.05",
+                "Points Change": "0.85",
+                "Change(%)": ".34",
+                "Volume": "-",
+                "Turnover (Rs. Cr.)": "-",
+                "P/E": "-",
+                "P/B": "-",
+                "Div Yield": "-"
+            }
+        },
+        {
+            "Nifty50 PR 2x Leverage": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "8679.75",
+                "High Index Value": "8682.15",
+                "Low Index Value": "8612.15",
+                "Closing Index Value": "8656.8",
+                "Points Change": "-57.1",
+                "Change(%)": "-.66",
+                "Volume": "-",
+                "Turnover (Rs. Cr.)": "-",
+                "P/E": "-",
+                "P/B": "-",
+                "Div Yield": "-"
+            }
+        },
+        {
+            "NIFTY100 Quality 30": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "3964.35",
+                "High Index Value": "3979.05",
+                "Low Index Value": "3952.2",
+                "Closing Index Value": "3972.65",
+                "Points Change": "3.0",
+                "Change(%)": ".08",
+                "Volume": "62042443",
+                "Turnover (Rs. Cr.)": "9410.96",
+                "P/E": "25.56",
+                "P/B": "7.95",
+                "Div Yield": "2.14"
+            }
+        },
+        {
+            "Nifty Mahindra Group": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "-",
+                "High Index Value": "-",
+                "Low Index Value": "-",
+                "Closing Index Value": "17577.1",
+                "Points Change": "-0.46",
+                "Change(%)": "0",
+                "Volume": "18531054",
+                "Turnover (Rs. Cr.)": "849.02",
+                "P/E": "16.87",
+                "P/B": "3.71",
+                "Div Yield": "2.08"
+            }
+        },
+        {
+            "Nifty 50 Futures TR Index": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "-",
+                "High Index Value": "-",
+                "Low Index Value": "-",
+                "Closing Index Value": "19353.69",
+                "Points Change": "-63.62",
+                "Change(%)": "-.33",
+                "Volume": "-",
+                "Turnover (Rs. Cr.)": "-",
+                "P/E": "-",
+                "P/B": "-",
+                "Div Yield": "-"
+            }
+        },
+        {
+            "Nifty Tata Group": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "-",
+                "High Index Value": "-",
+                "Low Index Value": "-",
+                "Closing Index Value": "12673.84",
+                "Points Change": "-79.29",
+                "Change(%)": "-.62",
+                "Volume": "94787621",
+                "Turnover (Rs. Cr.)": "3225.4",
+                "P/E": "31.57",
+                "P/B": "7.52",
+                "Div Yield": "2.43"
+            }
+        },
+        {
+            "Nifty Tata Group 25% Cap": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "-",
+                "High Index Value": "-",
+                "Low Index Value": "-",
+                "Closing Index Value": "10291.83",
+                "Points Change": "-17.86",
+                "Change(%)": "-.17",
+                "Volume": "88539841",
+                "Turnover (Rs. Cr.)": "2996.14",
+                "P/E": "30.76",
+                "P/B": "4.76",
+                "Div Yield": "1.73"
+            }
+        },
+        {
+            "Nifty Private Bank": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "21879.75",
+                "High Index Value": "21985.7",
+                "Low Index Value": "21834.2",
+                "Closing Index Value": "21966.95",
+                "Points Change": "13.45",
+                "Change(%)": ".06",
+                "Volume": "125331290",
+                "Turnover (Rs. Cr.)": "7143.5",
+                "P/E": "17.03",
+                "P/B": "2.74",
+                "Div Yield": ".56"
+            }
+        },
+        {
+            "Nifty Smallcap 250": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "9449.45",
+                "High Index Value": "9496.8",
+                "Low Index Value": "9437.2",
+                "Closing Index Value": "9465.75",
+                "Points Change": "12.9",
+                "Change(%)": ".14",
+                "Volume": "772374236",
+                "Turnover (Rs. Cr.)": "10464.47",
+                "P/E": "18.3",
+                "P/B": "3.13",
+                "Div Yield": "1.25"
+            }
+        },
+        {
+            "Nifty Smallcap 50": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "4458.4",
+                "High Index Value": "4479.75",
+                "Low Index Value": "4443.05",
+                "Closing Index Value": "4453.15",
+                "Points Change": "-8.3",
+                "Change(%)": "-.19",
+                "Volume": "423683026",
+                "Turnover (Rs. Cr.)": "4827.56",
+                "P/E": "17.01",
+                "P/B": "3.08",
+                "Div Yield": "2.01"
+            }
+        },
+        {
+            "Nifty MidSmallcap 400": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "11103",
+                "High Index Value": "11164.85",
+                "Low Index Value": "11085.45",
+                "Closing Index Value": "11134.45",
+                "Points Change": "23.25",
+                "Change(%)": ".21",
+                "Volume": "1720488971",
+                "Turnover (Rs. Cr.)": "21938.27",
+                "P/E": "22.14",
+                "P/B": "3.21",
+                "Div Yield": "1.21"
+            }
+        },
+        {
+            "Nifty Midcap 150": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "12025.95",
+                "High Index Value": "12098.6",
+                "Low Index Value": "12003.1",
+                "Closing Index Value": "12066.75",
+                "Points Change": "29.6",
+                "Change(%)": ".25",
+                "Volume": "948114735",
+                "Turnover (Rs. Cr.)": "11473.8",
+                "P/E": "24.79",
+                "P/B": "3.26",
+                "Div Yield": "1.19"
+            }
+        },
+        {
+            "Nifty Midcap Select": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "7318.2",
+                "High Index Value": "7365.7",
+                "Low Index Value": "7303.7",
+                "Closing Index Value": "7339.55",
+                "Points Change": "11.85",
+                "Change(%)": ".16",
+                "Volume": "126739049",
+                "Turnover (Rs. Cr.)": "3543.3",
+                "P/E": "32.99",
+                "P/B": "3.05",
+                "Div Yield": ".79"
+            }
+        },
+        {
+            "NIFTY LargeMidcap 250": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "10120.45",
+                "High Index Value": "10154.2",
+                "Low Index Value": "10100.55",
+                "Closing Index Value": "10133.0",
+                "Points Change": "-0.9",
+                "Change(%)": "-.01",
+                "Volume": "1399743399",
+                "Turnover (Rs. Cr.)": "38376.55",
+                "P/E": "23.41",
+                "P/B": "3.7",
+                "Div Yield": "1.31"
+            }
+        },
+        {
+            "NIFTY SME EMERGE": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "-",
+                "High Index Value": "-",
+                "Low Index Value": "-",
+                "Closing Index Value": "6909.39",
+                "Points Change": "20.97",
+                "Change(%)": ".3",
+                "Volume": "-",
+                "Turnover (Rs. Cr.)": "-",
+                "P/E": "49.75",
+                "P/B": "4.77",
+                "Div Yield": ".1"
+            }
+        },
+        {
+            "Nifty Oil & Gas": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "7580.8",
+                "High Index Value": "7583.45",
+                "Low Index Value": "7514.75",
+                "Closing Index Value": "7520.1",
+                "Points Change": "-58.3",
+                "Change(%)": "-.77",
+                "Volume": "48202584",
+                "Turnover (Rs. Cr.)": "1701.41",
+                "P/E": "14.82",
+                "P/B": "1.82",
+                "Div Yield": "2.98"
+            }
+        },
+        {
+            "Nifty Financial Services 25/50": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "18413.85",
+                "High Index Value": "18432.05",
+                "Low Index Value": "18357.1",
+                "Closing Index Value": "18417.15",
+                "Points Change": "-40.65",
+                "Change(%)": "-.22",
+                "Volume": "99682700",
+                "Turnover (Rs. Cr.)": "8965.95",
+                "P/E": "16.4",
+                "P/B": "3.65",
+                "Div Yield": ".92"
+            }
+        },
+        {
+            "Nifty Healthcare Index": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "8016.5",
+                "High Index Value": "8040.9",
+                "Low Index Value": "7995",
+                "Closing Index Value": "8017.45",
+                "Points Change": "-1.05",
+                "Change(%)": "-.01",
+                "Volume": "20922014",
+                "Turnover (Rs. Cr.)": "1589.32",
+                "P/E": "37.33",
+                "P/B": "4.83",
+                "Div Yield": ".73"
+            }
+        },
+        {
+            "Nifty500 Multicap 50:25:25": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "9998.8",
+                "High Index Value": "10028.8",
+                "Low Index Value": "9979.75",
+                "Closing Index Value": "10006.95",
+                "Points Change": "-3.75",
+                "Change(%)": "-.04",
+                "Volume": "2173387111",
+                "Turnover (Rs. Cr.)": "48872.14",
+                "P/E": "21.61",
+                "P/B": "3.66",
+                "Div Yield": "1.32"
+            }
+        },
+        {
+            "Nifty Microcap 250": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "11318.65",
+                "High Index Value": "11386.4",
+                "Low Index Value": "11309.95",
+                "Closing Index Value": "11353.8",
+                "Points Change": "31.85",
+                "Change(%)": ".28",
+                "Volume": "491748856",
+                "Turnover (Rs. Cr.)": "4436.61",
+                "P/E": "27.63",
+                "P/B": "2.07",
+                "Div Yield": "1.03"
+            }
+        },
+        {
+            "Nifty Total Market": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "8513.8",
+                "High Index Value": "8529.8",
+                "Low Index Value": "8493.2",
+                "Closing Index Value": "8513.75",
+                "Points Change": "-12.6",
+                "Change(%)": "-.15",
+                "Volume": "2665135967",
+                "Turnover (Rs. Cr.)": "53308.75",
+                "P/E": "22.3",
+                "P/B": "3.9",
+                "Div Yield": "1.37"
+            }
+        },
+        {
+            "Nifty India Digital": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "5264.65",
+                "High Index Value": "5272.5",
+                "Low Index Value": "5240.35",
+                "Closing Index Value": "5248.45",
+                "Points Change": "-29.5",
+                "Change(%)": "-.56",
+                "Volume": "183984031",
+                "Turnover (Rs. Cr.)": "4346.03",
+                "P/E": "163.01",
+                "P/B": "7.39",
+                "Div Yield": "1.41"
+            }
+        },
+        {
+            "Nifty Mobility": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "-",
+                "High Index Value": "-",
+                "Low Index Value": "-",
+                "Closing Index Value": "11090.91",
+                "Points Change": "-10.88",
+                "Change(%)": "-.1",
+                "Volume": "140426383",
+                "Turnover (Rs. Cr.)": "5865.66",
+                "P/E": "40.44",
+                "P/B": "4.85",
+                "Div Yield": "1.05"
+            }
+        },
+        {
+            "Nifty India Defence": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "-",
+                "High Index Value": "-",
+                "Low Index Value": "-",
+                "Closing Index Value": "2358.38",
+                "Points Change": "27.99",
+                "Change(%)": "1.2",
+                "Volume": "28403887",
+                "Turnover (Rs. Cr.)": "1449.68",
+                "P/E": "27.5",
+                "P/B": "6.32",
+                "Div Yield": "1.05"
+            }
+        },
+        {
+            "Nifty Financial Services Ex-Bank": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "-",
+                "High Index Value": "-",
+                "Low Index Value": "-",
+                "Closing Index Value": "16786.12",
+                "Points Change": "-55.65",
+                "Change(%)": "-.33",
+                "Volume": "66865399",
+                "Turnover (Rs. Cr.)": "3256.97",
+                "P/E": "17.91",
+                "P/B": "4.05",
+                "Div Yield": "1.11"
+            }
+        },
+        {
+            "Nifty Housing": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "-",
+                "High Index Value": "-",
+                "Low Index Value": "-",
+                "Closing Index Value": "7846.66",
+                "Points Change": "-13.67",
+                "Change(%)": "-.17",
+                "Volume": "427865790",
+                "Turnover (Rs. Cr.)": "14344.51",
+                "P/E": "20.43",
+                "P/B": "3.14",
+                "Div Yield": "1.25"
+            }
+        },
+        {
+            "Nifty Transportation & Logistics": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "-",
+                "High Index Value": "-",
+                "Low Index Value": "-",
+                "Closing Index Value": "12511.6",
+                "Points Change": "6.76",
+                "Change(%)": ".05",
+                "Volume": "111585385",
+                "Turnover (Rs. Cr.)": "4752.48",
+                "P/E": "38.78",
+                "P/B": "5.29",
+                "Div Yield": ".87"
+            }
+        },
+        {
+            "Nifty MidSmall Financial Services": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "-",
+                "High Index Value": "-",
+                "Low Index Value": "-",
+                "Closing Index Value": "8725.83",
+                "Points Change": "3.92",
+                "Change(%)": ".04",
+                "Volume": "308664577",
+                "Turnover (Rs. Cr.)": "3403.33",
+                "P/E": "11.69",
+                "P/B": "1.71",
+                "Div Yield": "1.64"
+            }
+        },
+        {
+            "Nifty MidSmall Healthcare": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "-",
+                "High Index Value": "-",
+                "Low Index Value": "-",
+                "Closing Index Value": "21021.51",
+                "Points Change": "36.09",
+                "Change(%)": ".17",
+                "Volume": "19143417",
+                "Turnover (Rs. Cr.)": "891.75",
+                "P/E": "35.49",
+                "P/B": "3.6",
+                "Div Yield": ".87"
+            }
+        },
+        {
+            "Nifty MidSmall IT & Telecom": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "-",
+                "High Index Value": "-",
+                "Low Index Value": "-",
+                "Closing Index Value": "6292.98",
+                "Points Change": "-48.29",
+                "Change(%)": "-.76",
+                "Volume": "94071684",
+                "Turnover (Rs. Cr.)": "963.66",
+                "P/E": "454.89",
+                "P/B": "30.28",
+                "Div Yield": "1.24"
+            }
+        },
+        {
+            "Nifty MidSmall India Consumption": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "-",
+                "High Index Value": "-",
+                "Low Index Value": "-",
+                "Closing Index Value": "10708.29",
+                "Points Change": "12.45",
+                "Change(%)": ".12",
+                "Volume": "43130437",
+                "Turnover (Rs. Cr.)": "2339.18",
+                "P/E": "48.58",
+                "P/B": "5.91",
+                "Div Yield": ".61"
+            }
+        },
+        {
+            "Nifty REITs & InvITs": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "-",
+                "High Index Value": "-",
+                "Low Index Value": "-",
+                "Closing Index Value": "1037.36",
+                "Points Change": "-1.15",
+                "Change(%)": "-.11",
+                "Volume": "859516",
+                "Turnover (Rs. Cr.)": "14.64",
+                "P/E": "58.24",
+                "P/B": "1.17",
+                "Div Yield": "7.94"
+            }
+        },
+        {
+            "Nifty Consumer Durables": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "24383.55",
+                "High Index Value": "24406.85",
+                "Low Index Value": "24291.8",
+                "Closing Index Value": "24340.2",
+                "Points Change": "-10.8",
+                "Change(%)": "-.04",
+                "Volume": "13508940",
+                "Turnover (Rs. Cr.)": "1002.15",
+                "P/E": "58.1",
+                "P/B": "10.34",
+                "Div Yield": ".62"
+            }
+        },
+        {
+            "Nifty Non-Cyclical Consumer": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "-",
+                "High Index Value": "-",
+                "Low Index Value": "-",
+                "Closing Index Value": "10685.96",
+                "Points Change": "43.53",
+                "Change(%)": ".41",
+                "Volume": "140301206",
+                "Turnover (Rs. Cr.)": "6095.7",
+                "P/E": "56.69",
+                "P/B": "10.5",
+                "Div Yield": ".95"
+            }
+        },
+        {
+            "Nifty India Manufacturing": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "8387.6",
+                "High Index Value": "8411.3",
+                "Low Index Value": "8367.8",
+                "Closing Index Value": "8405.2",
+                "Points Change": "8.9",
+                "Change(%)": ".11",
+                "Volume": "189002530",
+                "Turnover (Rs. Cr.)": "8939.93",
+                "P/E": "25.31",
+                "P/B": "3.94",
+                "Div Yield": "1.82"
+            }
+        },
+        {
+            "NIFTY100 Alpha 30": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "-",
+                "High Index Value": "-",
+                "Low Index Value": "-",
+                "Closing Index Value": "10846.08",
+                "Points Change": "12.19",
+                "Change(%)": ".11",
+                "Volume": "167905168",
+                "Turnover (Rs. Cr.)": "12237.92",
+                "P/E": "18.21",
+                "P/B": "3.94",
+                "Div Yield": "1.68"
+            }
+        },
+        {
+            "NIFTY500 Value 50": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "-",
+                "High Index Value": "-",
+                "Low Index Value": "-",
+                "Closing Index Value": "7401.36",
+                "Points Change": "-18.0",
+                "Change(%)": "-.24",
+                "Volume": "742405788",
+                "Turnover (Rs. Cr.)": "6804.03",
+                "P/E": "7.85",
+                "P/B": "1.23",
+                "Div Yield": "5.34"
+            }
+        },
+        {
+            "Nifty100 Low Volatility 30": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "13514.3",
+                "High Index Value": "13543.05",
+                "Low Index Value": "13483.4",
+                "Closing Index Value": "13517.05",
+                "Points Change": "-4.65",
+                "Change(%)": "-.03",
+                "Volume": "90219704",
+                "Turnover (Rs. Cr.)": "9805.89",
+                "P/E": "27.1",
+                "P/B": "5.05",
+                "Div Yield": "1.81"
+            }
+        },
+        {
+            "NIFTY Alpha Low-Volatility 30": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "17626.35",
+                "High Index Value": "17662.75",
+                "Low Index Value": "17578.3",
+                "Closing Index Value": "17608.75",
+                "Points Change": "-28.75",
+                "Change(%)": "-.16",
+                "Volume": "103939260",
+                "Turnover (Rs. Cr.)": "8487.79",
+                "P/E": "22.18",
+                "P/B": "4.91",
+                "Div Yield": "1.7"
+            }
+        },
+        {
+            "NIFTY Quality Low-Volatility 30": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "-",
+                "High Index Value": "-",
+                "Low Index Value": "-",
+                "Closing Index Value": "12573.98",
+                "Points Change": "37.52",
+                "Change(%)": ".3",
+                "Volume": "57911391",
+                "Turnover (Rs. Cr.)": "7831.58",
+                "P/E": "26.98",
+                "P/B": "6.86",
+                "Div Yield": "2.16"
+            }
+        },
+        {
+            "NIFTY Alpha Quality Low-Volatility 30": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "-",
+                "High Index Value": "-",
+                "Low Index Value": "-",
+                "Closing Index Value": "14514.18",
+                "Points Change": "57.0",
+                "Change(%)": ".39",
+                "Volume": "73089270",
+                "Turnover (Rs. Cr.)": "7158.04",
+                "P/E": "20.59",
+                "P/B": "5.9",
+                "Div Yield": "2.18"
+            }
+        },
+        {
+            "NIFTY Alpha Quality Value Low-Volatility 30": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "-",
+                "High Index Value": "-",
+                "Low Index Value": "-",
+                "Closing Index Value": "11989.47",
+                "Points Change": "9.85",
+                "Change(%)": ".08",
+                "Volume": "97511467",
+                "Turnover (Rs. Cr.)": "6469.53",
+                "P/E": "15",
+                "P/B": "4.13",
+                "Div Yield": "2.88"
+            }
+        },
+        {
+            "NIFTY200 Quality 30": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "14620.8",
+                "High Index Value": "14680.3",
+                "Low Index Value": "14579.7",
+                "Closing Index Value": "14654.25",
+                "Points Change": "10.0",
+                "Change(%)": ".07",
+                "Volume": "42969245",
+                "Turnover (Rs. Cr.)": "5086.64",
+                "P/E": "25.24",
+                "P/B": "9.09",
+                "Div Yield": "2.49"
+            }
+        },
+        {
+            "NIFTY Midcap150 Quality 50": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "16013.55",
+                "High Index Value": "16087.4",
+                "Low Index Value": "15995.95",
+                "Closing Index Value": "16038.7",
+                "Points Change": "15.1",
+                "Change(%)": ".09",
+                "Volume": "27066142",
+                "Turnover (Rs. Cr.)": "2075.32",
+                "P/E": "29.3",
+                "P/B": "7.42",
+                "Div Yield": "1.85"
+            }
+        },
+        {
+            "Nifty200 Momentum 30": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "19414.75",
+                "High Index Value": "19523.4",
+                "Low Index Value": "19361.35",
+                "Closing Index Value": "19445.3",
+                "Points Change": "-16.75",
+                "Change(%)": "-.09",
+                "Volume": "331157327",
+                "Turnover (Rs. Cr.)": "10664.12",
+                "P/E": "17.51",
+                "P/B": "3.05",
+                "Div Yield": "1.41"
+            }
+        },
+        {
+            "Nifty100 ESG Sector Leaders": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "2904.65",
+                "High Index Value": "2904.75",
+                "Low Index Value": "2892.15",
+                "Closing Index Value": "2898.85",
+                "Points Change": "-10.1",
+                "Change(%)": "-.35",
+                "Volume": "203994896",
+                "Turnover (Rs. Cr.)": "16296.05",
+                "P/E": "24.73",
+                "P/B": "4.62",
+                "Div Yield": "1.22"
+            }
+        },
+        {
+            "Nifty200 Alpha 30": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "-",
+                "High Index Value": "-",
+                "Low Index Value": "-",
+                "Closing Index Value": "13796.69",
+                "Points Change": "95.4",
+                "Change(%)": ".7",
+                "Volume": "324813116",
+                "Turnover (Rs. Cr.)": "9165.33",
+                "P/E": "15.13",
+                "P/B": "2.48",
+                "Div Yield": "1.47"
+            }
+        },
+        {
+            "Nifty Midcap150 Momentum 50": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "-",
+                "High Index Value": "-",
+                "Low Index Value": "-",
+                "Closing Index Value": "33250.22",
+                "Points Change": "193.25",
+                "Change(%)": ".58",
+                "Volume": "672349551",
+                "Turnover (Rs. Cr.)": "5813.9",
+                "P/E": "22.55",
+                "P/B": "2.83",
+                "Div Yield": ".71"
+            }
+        },
+        {
+            "Nifty Smallcap250 Quality 50": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "-",
+                "High Index Value": "-",
+                "Low Index Value": "-",
+                "Closing Index Value": "15963.4",
+                "Points Change": "85.84",
+                "Change(%)": ".54",
+                "Volume": "112593086",
+                "Turnover (Rs. Cr.)": "2253.28",
+                "P/E": "19.74",
+                "P/B": "4.39",
+                "Div Yield": "1.56"
+            }
+        },
+        {
+            "NIFTY100 ESG": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "3346.15",
+                "High Index Value": "3348.65",
+                "Low Index Value": "3333.2",
+                "Closing Index Value": "3340.2",
+                "Points Change": "-12.15",
+                "Change(%)": "-.36",
+                "Volume": "365074895",
+                "Turnover (Rs. Cr.)": "23020.52",
+                "P/E": "26.45",
+                "P/B": "5.22",
+                "Div Yield": "1.44"
+            }
+        },
+        {
+            "NIFTY100 Enhanced ESG": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "-",
+                "High Index Value": "-",
+                "Low Index Value": "-",
+                "Closing Index Value": "3368.15",
+                "Points Change": "-12.42",
+                "Change(%)": "-.37",
+                "Volume": "351434786",
+                "Turnover (Rs. Cr.)": "22660.08",
+                "P/E": "27.02",
+                "P/B": "5.24",
+                "Div Yield": "1.42"
+            }
+        },
+        {
+            "NIFTY50 Equal Weight": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "20758.7",
+                "High Index Value": "20777.1",
+                "Low Index Value": "20654.4",
+                "Closing Index Value": "20713.8",
+                "Points Change": "-83.75",
+                "Change(%)": "-.4",
+                "Volume": "226171254",
+                "Turnover (Rs. Cr.)": "19079.79",
+                "P/E": "20.36",
+                "P/B": "4",
+                "Div Yield": "1.72"
+            }
+        },
+        {
+            "Nifty 50 Futures Index": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "-",
+                "High Index Value": "-",
+                "Low Index Value": "-",
+                "Closing Index Value": "5521.42",
+                "Points Change": "-19.23",
+                "Change(%)": "-.35",
+                "Volume": "-",
+                "Turnover (Rs. Cr.)": "-",
+                "P/E": "-",
+                "P/B": "-",
+                "Div Yield": "-"
+            }
+        },
+        {
+            "Nifty 50 Arbitrage": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "-",
+                "High Index Value": "-",
+                "Low Index Value": "-",
+                "Closing Index Value": "2140.66",
+                "Points Change": "0.52",
+                "Change(%)": ".02",
+                "Volume": "-",
+                "Turnover (Rs. Cr.)": "-",
+                "P/E": "-",
+                "P/B": "-",
+                "Div Yield": "-"
+            }
+        },
+        {
+            "Nifty Aditya Birla Group": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "-",
+                "High Index Value": "-",
+                "Low Index Value": "-",
+                "Closing Index Value": "5444.82",
+                "Points Change": "11.08",
+                "Change(%)": ".2",
+                "Volume": "92596130",
+                "Turnover (Rs. Cr.)": "709.95",
+                "P/E": "107.34",
+                "P/B": "5.57",
+                "Div Yield": ".55"
+            }
+        },
+        {
+            "Nifty 8-13 yr G-Sec": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "2420.43",
+                "High Index Value": "2435.56",
+                "Low Index Value": "2420.43",
+                "Closing Index Value": "2435.56",
+                "Points Change": "15.6",
+                "Change(%)": ".64",
+                "Volume": "-",
+                "Turnover (Rs. Cr.)": "-",
+                "P/E": "-",
+                "P/B": "-",
+                "Div Yield": "-"
+            }
+        },
+        {
+            "Nifty 4-8 yr G-Sec Index": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "2632.24",
+                "High Index Value": "2639.57",
+                "Low Index Value": "2632.24",
+                "Closing Index Value": "2639.57",
+                "Points Change": "7.84",
+                "Change(%)": ".3",
+                "Volume": "-",
+                "Turnover (Rs. Cr.)": "-",
+                "P/E": "-",
+                "P/B": "-",
+                "Div Yield": "-"
+            }
+        },
+        {
+            "Nifty 11-15 yr G-Sec Index": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "2650.64",
+                "High Index Value": "2672.03",
+                "Low Index Value": "2650.64",
+                "Closing Index Value": "2672.03",
+                "Points Change": "21.9",
+                "Change(%)": ".83",
+                "Volume": "-",
+                "Turnover (Rs. Cr.)": "-",
+                "P/E": "-",
+                "P/B": "-",
+                "Div Yield": "-"
+            }
+        },
+        {
+            "Nifty 15 yr and above G-Sec Index": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "2910.38",
+                "High Index Value": "2939.88",
+                "Low Index Value": "2910.38",
+                "Closing Index Value": "2939.88",
+                "Points Change": "30.07",
+                "Change(%)": "1.03",
+                "Volume": "-",
+                "Turnover (Rs. Cr.)": "-",
+                "P/E": "-",
+                "P/B": "-",
+                "Div Yield": "-"
+            }
+        },
+        {
+            "Nifty Composite G-sec Index": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "2499.65",
+                "High Index Value": "2513.32",
+                "Low Index Value": "2499.65",
+                "Closing Index Value": "2513.32",
+                "Points Change": "14.14",
+                "Change(%)": ".57",
+                "Volume": "-",
+                "Turnover (Rs. Cr.)": "-",
+                "P/E": "-",
+                "P/B": "-",
+                "Div Yield": "-"
+            }
+        },
+        {
+            "Nifty 10 yr Benchmark G-Sec": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "2147.24",
+                "High Index Value": "2161.12",
+                "Low Index Value": "2147.24",
+                "Closing Index Value": "2161.09",
+                "Points Change": "14.26",
+                "Change(%)": ".66",
+                "Volume": "-",
+                "Turnover (Rs. Cr.)": "-",
+                "P/E": "-",
+                "P/B": "-",
+                "Div Yield": "-"
+            }
+        },
+        {
+            "Nifty 10 yr Benchmark G-Sec (Clean Price)": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "876.79",
+                "High Index Value": "882.56",
+                "Low Index Value": "876.79",
+                "Closing Index Value": "882.55",
+                "Points Change": "5.76",
+                "Change(%)": ".66",
+                "Volume": "-",
+                "Turnover (Rs. Cr.)": "-",
+                "P/E": "-",
+                "P/B": "-",
+                "Div Yield": "-"
+            }
+        },
+        {
+            "Nifty 1D Rate Index": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "-",
+                "High Index Value": "-",
+                "Low Index Value": "-",
+                "Closing Index Value": "2127.81",
+                "Points Change": "0.39",
+                "Change(%)": ".02",
+                "Volume": "-",
+                "Turnover (Rs. Cr.)": "-",
+                "P/E": "-",
+                "P/B": "-",
+                "Div Yield": "-"
+            }
+        },
+        {
+            "Nifty50 USD": {
+                "Index Date": "03-05-2023",
+                "Open Index Value": "-",
+                "High Index Value": "-",
+                "Low Index Value": "-",
+                "Closing Index Value": "7659.83",
+                "Points Change": "-18.49",
+                "Change(%)": "-.24",
+                "Volume": "-",
+                "Turnover (Rs. Cr.)": "-",
+                "P/E": "-",
+                "P/B": "-",
+                "Div Yield": "-"
+            }
+        }
+    ]
+}
