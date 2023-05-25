@@ -26,7 +26,7 @@ def csv_to_json(csv_file):
         json_data = {}
 
         for row in csv_data:
-            node = row[1]  # First column as the node
+            node = row[2] + ' (' + row[1] +')'  # First column as the node
             children = {header: value for header, value in zip(headers[2:], row[2:])}  # Rest of the columns as children
 
             if node not in json_data:
@@ -93,7 +93,7 @@ try:
   dir_list = dir2
   dir_list.reverse()
   ticker = pd.read_csv("ticker.csv")
-  ticker = ticker[["SYMBOL"]]
+  ticker = ticker[["SYMBOL","NAME OF COMPANY"]]
   df2 = ticker.merge(ticker, on='SYMBOL', how='left')
   for i in dir_list:
     path = "Test/"+str(i)
@@ -105,6 +105,8 @@ try:
     df[i] = ((df[close] - df[prevClose])/df[prevClose]) * 100
     df = df[["SYMBOL", i]]
     df2 = df2.merge(df, on='SYMBOL', how='left')
+  df2 = df2.drop('NAME OF COMPANY_y', axis=1)
+  df2.rename(columns = {'NAME OF COMPANY_x':'NAME OF COMPANY'}, inplace = True)
 
   #save file
   today = date.today()
