@@ -2,7 +2,7 @@ name: run main.py
 
 on: 
  schedule:
-  - cron: '08 16 * * *'
+  - cron: '08 15 * * *'
 #  workflow_dispatch:
 #     inputs:
 #       logLevel:

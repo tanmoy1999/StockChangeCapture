@@ -152,10 +152,8 @@ try:
   df2 = ticker.merge(ticker, on='Index Name', how='left')
   for i in dir_list:
     path = "Test/"+str(i)
-    prevClose = 'PREVCLOSE_'+str(i)
-    close = 'CLOSE_'+str(i)
     df = pd.read_csv(path)
-    df[i] = df["Points Change"]
+    df[i] = df["Change(%)"]
     df = df[["Index Name", i]]
     df2 = df2.merge(df, on='Index Name', how='left')
 
@@ -163,11 +161,11 @@ try:
   today = date.today()
   d4 = today.strftime('%b%Y')
   filename = 'CSVOutput/IndexChange_' + str(d4) + '.csv'
-  # df2.to_csv(filename)
-  # print('Process completed... file generated ', filename)
+  df2.to_csv(filename)
+  print('Process completed... file generated ', filename)
 
   json_data = index_json(filename)
-  json_filename = 'JSONOutput/IndexChange2_'+str(d4) + '.json'
+  json_filename = 'JSONOutput/IndexChange_'+str(d4) + '.json'
   # dir_list_full = ['Test/' + i for i in dir_list]
   # json_data = multi_node_export(dir_list_full)
   save_file = open(json_filename, "w")  
