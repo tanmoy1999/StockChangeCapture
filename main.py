@@ -27,7 +27,7 @@ def csv_to_json(csv_file):
 
         for row in csv_data:
             node = row[2] + ' (' + row[1] +')'  # First column as the node
-            children = {header: value for header, value in zip(headers[2:], row[2:])}  # Rest of the columns as children
+            children = {header: value for header, value in zip(headers[3:], row[3:])}  # Rest of the columns as children
 
             if node not in json_data:
                 json_data[node] = []
