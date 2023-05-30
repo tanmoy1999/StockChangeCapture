@@ -8,27 +8,6 @@ import requests, zipfile, io
 import json
 import csv
 
-
-def multi_node_export(csv_files):
-  json_data = {}
-  for csv_file in csv_files:
-      with open(csv_file, "r") as file:
-          csv_reader = csv.reader(file)
-          header = next(csv_reader)
-          main_node = csv_file.replace(".csv", "").split('/')[1]
-
-          json_data[main_node] = []
-
-          for row in csv_reader:
-              sub_node = row[0]
-              data = {
-                  header[i]: row[i] for i in [6,7]
-              }
-
-              json_data[main_node].append({sub_node: data})
-
-  return json_data
-
 def msg(message):
     print(message)
     
@@ -57,39 +36,6 @@ def csv_to_json(csv_file):
 
     return json_data
 
-def index_json(csv_file):
-    with open(csv_file, 'r') as file:
-        csv_data = csv.reader(file)
-        headers = next(csv_data)  # Get the header row
-        json_data = {}
-
-        for row in csv_data:
-            node = row[1]  # First column as the node
-            children = {header: value for header, value in zip(headers[2:], row[2:])}  # Rest of the columns as children
-
-            if node not in json_data:
-                json_data[node] = []
-
-            json_data[node].append(children)
-
-    return json_data
-
-def down_non_zip(url):
-    try:
-        output_file = 'Test/' + url.split('/')[-1]
-
-        response = requests.get(url, verify=False, timeout=3)
-        if response.status_code == 200:
-            with open(output_file, "wb") as file:
-                file.write(response.content)
-            print("CSV file downloaded successfully.")
-            return 1
-        else:
-            print("Failed to download the CSV file.")
-            return 0
-    except:
-       return 0
-
 def down(URL):
   try:
     r = requests.get(URL, verify=False, timeout=3)
@@ -102,7 +48,7 @@ def down(URL):
 try:
   os.makedirs("Test")
   dt = datetime.now()
-  year = [str(dt.strftime("%m")).lower()]
+  year = [str(dt.strftime("%b")).upper()]
   month = [str(dt.strftime("%Y")).upper()]
   stopDt = str(int(dt.strftime("%d")) + 1) +year[0] + month[0]
   print(stopDt)
@@ -113,17 +59,17 @@ try:
               try:
                   year = p
                   dt = str(i) + j + year
-                #   print(dt)
+                  # print(dt)
                   if str(dt) == str(stopDt):
                       break
                   if i < 10:
-                      str1 = '0' + dt
+                      str1 = 'cm0' + dt +'bhav.csv.zip'
                   else:
-                      str1 = dt
+                      str1 = 'cm' + dt +'bhav.csv.zip'
                   print(str1)
-                  URL = 'https://archives.nseindia.com/content/indices/ind_close_all_' + str(str1) + '.csv'
-                #   print(URL)
-                  resp = down_non_zip(URL)
+                  URL = 'https://archives.nseindia.com/content/historical/EQUITIES/'+year+'/' + j + '/' + str1
+                  # print(URL)
+                  resp = down(URL)
                   if resp == 0:
                     pass
               except:
@@ -135,45 +81,46 @@ try:
   dir_list = sorted(os.listdir(path))
   dir, dir1, dir2 = [], [], []
   for i in range(len(dir_list)):
-    dir.append(dir_list[i].split('ind_close_all_')[1].split('.csv')[0])
-    datetime_object = datetime.strptime(dir[i], '%d%m%Y')
+    dir.append(dir_list[i].split('cm')[1].split('bhav')[0])
+    datetime_object = datetime.strptime(dir[i], '%d%b%Y')
     dir1.append(datetime_object.date())
 
   dir1 = sorted(dir1)
-  print(dir1)
   for i in range(len(dir1)):
-    d = dir1[i].strftime("%d%m%Y")
-    fin = 'ind_close_all_'+d.upper()+'.csv'
+    d = dir1[i].strftime("%d%b%Y")
+    fin = 'cm'+d.upper()+'bhav.csv'
     dir2.append(fin)
   dir_list = dir2
   dir_list.reverse()
-  ticker = pd.read_csv("index_ticker.csv")
-  ticker = ticker[["Index Name"]]
-  df2 = ticker.merge(ticker, on='Index Name', how='left')
+  ticker = pd.read_csv("ticker.csv")
+  ticker = ticker[["SYMBOL","NAME OF COMPANY"]]
+  df2 = ticker.merge(ticker, on='SYMBOL', how='left')
   for i in dir_list:
     path = "Test/"+str(i)
     prevClose = 'PREVCLOSE_'+str(i)
     close = 'CLOSE_'+str(i)
     df = pd.read_csv(path)
-    df[i] = df["Points Change"]
-    df = df[["Index Name", i]]
-    df2 = df2.merge(df, on='Index Name', how='left')
+    df = df[df['SERIES'] == "EQ"]
+    df.rename(columns = {'PREVCLOSE':prevClose, 'CLOSE':close}, inplace = True)
+    df[i] = df['LAST']
+    df = df[["SYMBOL", i]]
+    df2 = df2.merge(df, on='SYMBOL', how='left')
+  df2 = df2.drop('NAME OF COMPANY_y', axis=1)
+  df2.rename(columns = {'NAME OF COMPANY_x':'NAME OF COMPANY'}, inplace = True)
 
   #save file
   today = date.today()
   d4 = today.strftime('%b%Y')
-  filename = 'CSVOutput/IndexChange_' + str(d4) + '.csv'
-  # df2.to_csv(filename)
-  # print('Process completed... file generated ', filename)
+  filename = 'CSVOutput/' + str(d4) + '_close.csv'
+  df2.to_csv(filename)
+  print('Process completed... file generated ', filename)
 
-  json_data = index_json(filename)
-  json_filename = 'JSONOutput/IndexChange2_'+str(d4) + '.json'
-  # dir_list_full = ['Test/' + i for i in dir_list]
-  # json_data = multi_node_export(dir_list_full)
+  json_data = csv_to_json(filename)
+
+  json_filename = 'JSONOutput/'+str(d4) + '_close.json'
   save_file = open(json_filename, "w")  
-  json.dump(json_data, save_file, indent = 4)
-  save_file.close() 
- 
+  json.dump(json_data, save_file, indent = 6)  
+  save_file.close()  
   print(f"JSON file exported... {json_filename}")
 
   print(dir_list)
@@ -187,10 +134,7 @@ except Exception as e:
   msg("Process Stopped Need your attention")
    
 
-# #add market cap at column
-# #add current price column
-# #52weeks high and low col
-# #type of industry
-
-
-
+#add market cap at column
+#add current price column
+#52weeks high and low col
+#type of industry
