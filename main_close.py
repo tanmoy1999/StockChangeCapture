@@ -1,0 +1,140 @@
+import os
+import pandas as pd
+import numpy as np
+import wget
+import zipfile
+from datetime import datetime, date
+import requests, zipfile, io
+import json
+import csv
+
+def msg(message):
+    print(message)
+    
+    bot_token = '5041715929:AAFcraPI9-8jZR0bLkquRDNUXg96tEUKje4'
+    bot_chatID = '1259144189'
+    send_text = 'https://api.telegram.org/bot' + bot_token + '/sendMessage?chat_id='+ bot_chatID + '&parse_mode=MarkdownV2&text=' + message
+
+    response = requests.get(send_text)
+    print(response.json())
+    return response.json()
+
+def csv_to_json(csv_file):
+    with open(csv_file, 'r') as file:
+        csv_data = csv.reader(file)
+        headers = next(csv_data)  # Get the header row
+        json_data = {}
+
+        for row in csv_data:
+            node = row[2] + ' (' + row[1] +')'  # First column as the node
+            children = {header: value for header, value in zip(headers[3:], row[3:])}  # Rest of the columns as children
+
+            if node not in json_data:
+                json_data[node] = []
+
+            json_data[node].append(children)
+
+    return json_data
+
+def down(URL):
+  try:
+    r = requests.get(URL, verify=False, timeout=3)
+    print(r)
+    z = zipfile.ZipFile(io.BytesIO(r.content))
+    z.extractall("Test/")
+    return 1
+  except:
+    return 0
+try:
+  os.makedirs("Test")
+  dt = datetime.now()
+  year = [str(dt.strftime("%b")).upper()]
+  month = [str(dt.strftime("%Y")).upper()]
+  stopDt = str(int(dt.strftime("%d")) + 1) +year[0] + month[0]
+  print(stopDt)
+  print('downloading......')
+  for p in month:
+      for j in year:
+          for i in range(1,31):
+              try:
+                  year = p
+                  dt = str(i) + j + year
+                  # print(dt)
+                  if str(dt) == str(stopDt):
+                      break
+                  if i < 10:
+                      str1 = 'cm0' + dt +'bhav.csv.zip'
+                  else:
+                      str1 = 'cm' + dt +'bhav.csv.zip'
+                  print(str1)
+                  URL = 'https://archives.nseindia.com/content/historical/EQUITIES/'+year+'/' + j + '/' + str1
+                  # print(URL)
+                  resp = down(URL)
+                  if resp == 0:
+                    pass
+              except:
+                print("passed")
+                pass
+
+  print('processing.....')
+  path = "Test"
+  dir_list = sorted(os.listdir(path))
+  dir, dir1, dir2 = [], [], []
+  for i in range(len(dir_list)):
+    dir.append(dir_list[i].split('cm')[1].split('bhav')[0])
+    datetime_object = datetime.strptime(dir[i], '%d%b%Y')
+    dir1.append(datetime_object.date())
+
+  dir1 = sorted(dir1)
+  for i in range(len(dir1)):
+    d = dir1[i].strftime("%d%b%Y")
+    fin = 'cm'+d.upper()+'bhav.csv'
+    dir2.append(fin)
+  dir_list = dir2
+  dir_list.reverse()
+  ticker = pd.read_csv("ticker.csv")
+  ticker = ticker[["SYMBOL","NAME OF COMPANY"]]
+  df2 = ticker.merge(ticker, on='SYMBOL', how='left')
+  for i in dir_list:
+    path = "Test/"+str(i)
+    prevClose = 'PREVCLOSE_'+str(i)
+    close = 'CLOSE_'+str(i)
+    df = pd.read_csv(path)
+    df = df[df['SERIES'] == "EQ"]
+    df.rename(columns = {'PREVCLOSE':prevClose, 'CLOSE':close}, inplace = True)
+    df[i] = df['LAST']
+    df = df[["SYMBOL", i]]
+    df2 = df2.merge(df, on='SYMBOL', how='left')
+  df2 = df2.drop('NAME OF COMPANY_y', axis=1)
+  df2.rename(columns = {'NAME OF COMPANY_x':'NAME OF COMPANY'}, inplace = True)
+
+  #save file
+  today = date.today()
+  d4 = today.strftime('%b%Y')
+  filename = 'CSVOutput/' + str(d4) + '_close.csv'
+  df2.to_csv(filename)
+  print('Process completed... file generated ', filename)
+
+  json_data = csv_to_json(filename)
+
+  json_filename = 'JSONOutput/'+str(d4) + '_close.json'
+  save_file = open(json_filename, "w")  
+  json.dump(json_data, save_file, indent = 6)  
+  save_file.close()  
+  print(f"JSON file exported... {json_filename}")
+
+  print(dir_list)
+  dir_list_del = ['Test/'+ i for i in dir_list]
+  for f in dir_list_del:
+      os.remove(f)
+  print("source files deleted...")
+  os.rmdir("Test")
+except Exception as e:
+  print(e)
+  msg("Process Stopped Need your attention")
+   
+
+#add market cap at column
+#add current price column
+#52weeks high and low col
+#type of industry
