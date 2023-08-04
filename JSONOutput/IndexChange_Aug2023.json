@@ -1,6 +1,7 @@
 {
     "Nifty 50": [
         {
+            "ind_close_all_04082023.csv": ".7",
             "ind_close_all_03082023.csv": "-.74",
             "ind_close_all_02082023.csv": "-1.05",
             "ind_close_all_01082023.csv": "-.1"
@@ -8,6 +9,7 @@
     ],
     "Nifty Next 50": [
         {
+            "ind_close_all_04082023.csv": ".79",
             "ind_close_all_03082023.csv": "-.52",
             "ind_close_all_02082023.csv": "-1.36",
             "ind_close_all_01082023.csv": "-.05"
@@ -15,6 +17,7 @@
     ],
     "Nifty 100": [
         {
+            "ind_close_all_04082023.csv": ".71",
             "ind_close_all_03082023.csv": "-.7",
             "ind_close_all_02082023.csv": "-1.08",
             "ind_close_all_01082023.csv": "-.1"
@@ -22,6 +25,7 @@
     ],
     "Nifty 200": [
         {
+            "ind_close_all_04082023.csv": ".73",
             "ind_close_all_03082023.csv": "-.56",
             "ind_close_all_02082023.csv": "-1.12",
             "ind_close_all_01082023.csv": "-.08"
@@ -29,6 +33,7 @@
     ],
     "Nifty 500": [
         {
+            "ind_close_all_04082023.csv": ".71",
             "ind_close_all_03082023.csv": "-.51",
             "ind_close_all_02082023.csv": "-1.13",
             "ind_close_all_01082023.csv": "-.05"
@@ -36,6 +41,7 @@
     ],
     "Nifty Midcap 50": [
         {
+            "ind_close_all_04082023.csv": ".79",
             "ind_close_all_03082023.csv": ".13",
             "ind_close_all_02082023.csv": "-1.4",
             "ind_close_all_01082023.csv": "-.26"
@@ -43,6 +49,7 @@
     ],
     "NIFTY Midcap 100": [
         {
+            "ind_close_all_04082023.csv": ".82",
             "ind_close_all_03082023.csv": ".25",
             "ind_close_all_02082023.csv": "-1.33",
             "ind_close_all_01082023.csv": ".03"
@@ -50,6 +57,7 @@
     ],
     "NIFTY Smallcap 100": [
         {
+            "ind_close_all_04082023.csv": ".76",
             "ind_close_all_03082023.csv": ".12",
             "ind_close_all_02082023.csv": "-1.58",
             "ind_close_all_01082023.csv": ".68"
@@ -57,6 +65,7 @@
     ],
     "Nifty50 Dividend Points": [
         {
+            "ind_close_all_04082023.csv": "-",
             "ind_close_all_03082023.csv": "-",
             "ind_close_all_02082023.csv": "-",
             "ind_close_all_01082023.csv": "-"
@@ -64,6 +73,7 @@
     ],
     "Nifty Auto": [
         {
+            "ind_close_all_04082023.csv": "-.33",
             "ind_close_all_03082023.csv": "-.32",
             "ind_close_all_02082023.csv": "-1.66",
             "ind_close_all_01082023.csv": "-.12"
@@ -71,6 +81,7 @@
     ],
     "Nifty Bank": [
         {
+            "ind_close_all_04082023.csv": ".82",
             "ind_close_all_03082023.csv": "-1.07",
             "ind_close_all_02082023.csv": "-1.31",
             "ind_close_all_01082023.csv": "-.13"
@@ -78,6 +89,7 @@
     ],
     "Nifty Energy": [
         {
+            "ind_close_all_04082023.csv": ".12",
             "ind_close_all_03082023.csv": "-.5",
             "ind_close_all_02082023.csv": "-1.61",
             "ind_close_all_01082023.csv": "-.26"
@@ -85,6 +97,7 @@
     ],
     "Nifty Financial Services": [
         {
+            "ind_close_all_04082023.csv": ".79",
             "ind_close_all_03082023.csv": "-1.17",
             "ind_close_all_02082023.csv": "-1.28",
             "ind_close_all_01082023.csv": "-.07"
@@ -92,6 +105,7 @@
     ],
     "Nifty FMCG": [
         {
+            "ind_close_all_04082023.csv": "-.02",
             "ind_close_all_03082023.csv": "-.58",
             "ind_close_all_02082023.csv": "-.25",
             "ind_close_all_01082023.csv": "-.26"
@@ -99,6 +113,7 @@
     ],
     "Nifty IT": [
         {
+            "ind_close_all_04082023.csv": "1.55",
             "ind_close_all_03082023.csv": "-.24",
             "ind_close_all_02082023.csv": "-.81",
             "ind_close_all_01082023.csv": "1.2"
@@ -106,6 +121,7 @@
     ],
     "Nifty Media": [
         {
+            "ind_close_all_04082023.csv": ".12",
             "ind_close_all_03082023.csv": ".91",
             "ind_close_all_02082023.csv": "-1.57",
             "ind_close_all_01082023.csv": "-.14"
@@ -113,6 +129,7 @@
     ],
     "Nifty Metal": [
         {
+            "ind_close_all_04082023.csv": ".31",
             "ind_close_all_03082023.csv": "-.47",
             "ind_close_all_02082023.csv": "-2.02",
             "ind_close_all_01082023.csv": ".18"
@@ -120,6 +137,7 @@
     ],
     "Nifty MNC": [
         {
+            "ind_close_all_04082023.csv": "-.28",
             "ind_close_all_03082023.csv": "-.68",
             "ind_close_all_02082023.csv": "-.81",
             "ind_close_all_01082023.csv": "-.22"
@@ -127,6 +145,7 @@
     ],
     "Nifty Pharma": [
         {
+            "ind_close_all_04082023.csv": ".94",
             "ind_close_all_03082023.csv": "1.04",
             "ind_close_all_02082023.csv": "-.39",
             "ind_close_all_01082023.csv": ".06"
@@ -134,6 +153,7 @@
     ],
     "Nifty PSU Bank": [
         {
+            "ind_close_all_04082023.csv": "-.7",
             "ind_close_all_03082023.csv": "-.59",
             "ind_close_all_02082023.csv": "-2.61",
             "ind_close_all_01082023.csv": "-.52"
@@ -141,6 +161,7 @@
     ],
     "Nifty Realty": [
         {
+            "ind_close_all_04082023.csv": ".09",
             "ind_close_all_03082023.csv": "-1.78",
             "ind_close_all_02082023.csv": "-1.49",
             "ind_close_all_01082023.csv": "-1.77"
@@ -148,6 +169,7 @@
     ],
     "Nifty India Consumption": [
         {
+            "ind_close_all_04082023.csv": ".28",
             "ind_close_all_03082023.csv": "-.7",
             "ind_close_all_02082023.csv": "-.74",
             "ind_close_all_01082023.csv": "-.32"
@@ -155,6 +177,7 @@
     ],
     "Nifty Commodities": [
         {
+            "ind_close_all_04082023.csv": ".18",
             "ind_close_all_03082023.csv": "-.62",
             "ind_close_all_02082023.csv": "-1.54",
             "ind_close_all_01082023.csv": ".7"
@@ -162,6 +185,7 @@
     ],
     "Nifty Dividend Opportunities 50": [
         {
+            "ind_close_all_04082023.csv": ".32",
             "ind_close_all_03082023.csv": "-.45",
             "ind_close_all_02082023.csv": "-1.29",
             "ind_close_all_01082023.csv": ".24"
@@ -169,6 +193,7 @@
     ],
     "Nifty Infrastructure": [
         {
+            "ind_close_all_04082023.csv": ".62",
             "ind_close_all_03082023.csv": "-.4",
             "ind_close_all_02082023.csv": "-1.31",
             "ind_close_all_01082023.csv": "-.63"
@@ -176,6 +201,7 @@
     ],
     "Nifty PSE": [
         {
+            "ind_close_all_04082023.csv": "-.09",
             "ind_close_all_03082023.csv": "-.14",
             "ind_close_all_02082023.csv": "-2.12",
             "ind_close_all_01082023.csv": ".02"
@@ -183,6 +209,7 @@
     ],
     "Nifty Services Sector": [
         {
+            "ind_close_all_04082023.csv": ".93",
             "ind_close_all_03082023.csv": "-.8",
             "ind_close_all_02082023.csv": "-1.17",
             "ind_close_all_01082023.csv": ".12"
@@ -190,6 +217,7 @@
     ],
     "Nifty50 Shariah": [
         {
+            "ind_close_all_04082023.csv": ".78",
             "ind_close_all_03082023.csv": "-.47",
             "ind_close_all_02082023.csv": "-.51",
             "ind_close_all_01082023.csv": ".32"
@@ -197,6 +225,7 @@
     ],
     "Nifty500 Shariah": [
         {
+            "ind_close_all_04082023.csv": ".73",
             "ind_close_all_03082023.csv": "-.16",
             "ind_close_all_02082023.csv": "-.78",
             "ind_close_all_01082023.csv": ".26"
@@ -204,6 +233,7 @@
     ],
     "Nifty Low Volatility 50": [
         {
+            "ind_close_all_04082023.csv": ".67",
             "ind_close_all_03082023.csv": "-.28",
             "ind_close_all_02082023.csv": "-.8",
             "ind_close_all_01082023.csv": ".12"
@@ -211,6 +241,7 @@
     ],
     "Nifty Alpha 50": [
         {
+            "ind_close_all_04082023.csv": ".45",
             "ind_close_all_03082023.csv": "-.18",
             "ind_close_all_02082023.csv": "-1.3",
             "ind_close_all_01082023.csv": "-.45"
@@ -218,6 +249,7 @@
     ],
     "Nifty High Beta 50": [
         {
+            "ind_close_all_04082023.csv": ".84",
             "ind_close_all_03082023.csv": ".19",
             "ind_close_all_02082023.csv": "-1.8",
             "ind_close_all_01082023.csv": "-.02"
@@ -225,6 +257,7 @@
     ],
     "Nifty100 Equal Weight": [
         {
+            "ind_close_all_04082023.csv": ".64",
             "ind_close_all_03082023.csv": "-.46",
             "ind_close_all_02082023.csv": "-1.21",
             "ind_close_all_01082023.csv": "-.04"
@@ -232,6 +265,7 @@
     ],
     "Nifty100 Liquid 15": [
         {
+            "ind_close_all_04082023.csv": ".63",
             "ind_close_all_03082023.csv": "-.81",
             "ind_close_all_02082023.csv": "-1.39",
             "ind_close_all_01082023.csv": "-.37"
@@ -239,6 +273,7 @@
     ],
     "Nifty CPSE": [
         {
+            "ind_close_all_04082023.csv": ".51",
             "ind_close_all_03082023.csv": "-.67",
             "ind_close_all_02082023.csv": "-2.16",
             "ind_close_all_01082023.csv": ".31"
@@ -246,6 +281,7 @@
     ],
     "Nifty50 Value 20": [
         {
+            "ind_close_all_04082023.csv": ".48",
             "ind_close_all_03082023.csv": "-.51",
             "ind_close_all_02082023.csv": "-.96",
             "ind_close_all_01082023.csv": ".35"
@@ -253,6 +289,7 @@
     ],
     "Nifty Midcap Liquid 15": [
         {
+            "ind_close_all_04082023.csv": ".57",
             "ind_close_all_03082023.csv": "-.14",
             "ind_close_all_02082023.csv": "-1.29",
             "ind_close_all_01082023.csv": "-.35"
@@ -260,6 +297,7 @@
     ],
     "Nifty Shariah 25": [
         {
+            "ind_close_all_04082023.csv": ".74",
             "ind_close_all_03082023.csv": "-.44",
             "ind_close_all_02082023.csv": "-.44",
             "ind_close_all_01082023.csv": ".23"
@@ -267,6 +305,7 @@
     ],
     "India VIX": [
         {
+            "ind_close_all_04082023.csv": "-5.48",
             "ind_close_all_03082023.csv": "-.82",
             "ind_close_all_02082023.csv": "9.68",
             "ind_close_all_01082023.csv": "-1.25"
@@ -274,6 +313,7 @@
     ],
     "Nifty Growth Sectors 15": [
         {
+            "ind_close_all_04082023.csv": ".53",
             "ind_close_all_03082023.csv": "-.76",
             "ind_close_all_02082023.csv": "-.53",
             "ind_close_all_01082023.csv": ".29"
@@ -281,6 +321,7 @@
     ],
     "Nifty50 TR 1x Inverse": [
         {
+            "ind_close_all_04082023.csv": "-.67",
             "ind_close_all_03082023.csv": ".75",
             "ind_close_all_02082023.csv": "1.01",
             "ind_close_all_01082023.csv": ".13"
@@ -288,6 +329,7 @@
     ],
     "Nifty50 TR 2x Leverage": [
         {
+            "ind_close_all_04082023.csv": "1.38",
             "ind_close_all_03082023.csv": "-1.46",
             "ind_close_all_02082023.csv": "-2.03",
             "ind_close_all_01082023.csv": "-.22"
@@ -295,6 +337,7 @@
     ],
     "Nifty50 PR 1x Inverse": [
         {
+            "ind_close_all_04082023.csv": "-.67",
             "ind_close_all_03082023.csv": ".75",
             "ind_close_all_02082023.csv": "1.06",
             "ind_close_all_01082023.csv": ".13"
@@ -302,6 +345,7 @@
     ],
     "Nifty50 PR 2x Leverage": [
         {
+            "ind_close_all_04082023.csv": "1.38",
             "ind_close_all_03082023.csv": "-1.5",
             "ind_close_all_02082023.csv": "-2.12",
             "ind_close_all_01082023.csv": "-.22"
@@ -309,6 +353,7 @@
     ],
     "NIFTY100 Quality 30": [
         {
+            "ind_close_all_04082023.csv": ".58",
             "ind_close_all_03082023.csv": "-.59",
             "ind_close_all_02082023.csv": "-.67",
             "ind_close_all_01082023.csv": ".31"
@@ -316,6 +361,7 @@
     ],
     "Nifty Mahindra Group": [
         {
+            "ind_close_all_04082023.csv": ".81",
             "ind_close_all_03082023.csv": "-.74",
             "ind_close_all_02082023.csv": "-.34",
             "ind_close_all_01082023.csv": "1.12"
@@ -323,6 +369,7 @@
     ],
     "Nifty 50 Futures TR Index": [
         {
+            "ind_close_all_04082023.csv": ".57",
             "ind_close_all_03082023.csv": "-.64",
             "ind_close_all_02082023.csv": "-1.07",
             "ind_close_all_01082023.csv": "-.14"
@@ -330,6 +377,7 @@
     ],
     "Nifty Tata Group": [
         {
+            "ind_close_all_04082023.csv": ".77",
             "ind_close_all_03082023.csv": "-1.09",
             "ind_close_all_02082023.csv": "-1.14",
             "ind_close_all_01082023.csv": ".5"
@@ -337,6 +385,7 @@
     ],
     "Nifty Tata Group 25% Cap": [
         {
+            "ind_close_all_04082023.csv": ".48",
             "ind_close_all_03082023.csv": "-1.04",
             "ind_close_all_02082023.csv": "-1.54",
             "ind_close_all_01082023.csv": ".27"
@@ -344,6 +393,7 @@
     ],
     "Nifty Private Bank": [
         {
+            "ind_close_all_04082023.csv": "1.25",
             "ind_close_all_03082023.csv": "-1",
             "ind_close_all_02082023.csv": "-1.23",
             "ind_close_all_01082023.csv": ".02"
@@ -351,6 +401,7 @@
     ],
     "Nifty Smallcap 250": [
         {
+            "ind_close_all_04082023.csv": ".62",
             "ind_close_all_03082023.csv": ".14",
             "ind_close_all_02082023.csv": "-1.28",
             "ind_close_all_01082023.csv": ".2"
@@ -358,6 +409,7 @@
     ],
     "Nifty Smallcap 50": [
         {
+            "ind_close_all_04082023.csv": ".74",
             "ind_close_all_03082023.csv": ".07",
             "ind_close_all_02082023.csv": "-1.63",
             "ind_close_all_01082023.csv": ".88"
@@ -365,6 +417,7 @@
     ],
     "Nifty MidSmallcap 400": [
         {
+            "ind_close_all_04082023.csv": ".69",
             "ind_close_all_03082023.csv": ".07",
             "ind_close_all_02082023.csv": "-1.25",
             "ind_close_all_01082023.csv": ".12"
@@ -372,6 +425,7 @@
     ],
     "Nifty Midcap 150": [
         {
+            "ind_close_all_04082023.csv": ".72",
             "ind_close_all_03082023.csv": ".03",
             "ind_close_all_02082023.csv": "-1.24",
             "ind_close_all_01082023.csv": ".08"
@@ -379,6 +433,7 @@
     ],
     "Nifty Midcap Select": [
         {
+            "ind_close_all_04082023.csv": ".83",
             "ind_close_all_03082023.csv": ".14",
             "ind_close_all_02082023.csv": "-1.17",
             "ind_close_all_01082023.csv": "-.22"
@@ -386,6 +441,7 @@
     ],
     "NIFTY LargeMidcap 250": [
         {
+            "ind_close_all_04082023.csv": ".72",
             "ind_close_all_03082023.csv": "-.33",
             "ind_close_all_02082023.csv": "-1.16",
             "ind_close_all_01082023.csv": "-.01"
@@ -393,6 +449,7 @@
     ],
     "NIFTY SME EMERGE": [
         {
+            "ind_close_all_04082023.csv": ".71",
             "ind_close_all_03082023.csv": "1.71",
             "ind_close_all_02082023.csv": "1.48",
             "ind_close_all_01082023.csv": ".25"
@@ -400,6 +457,7 @@
     ],
     "Nifty Oil & Gas": [
         {
+            "ind_close_all_04082023.csv": ".22",
             "ind_close_all_03082023.csv": "-.8",
             "ind_close_all_02082023.csv": "-1.38",
             "ind_close_all_01082023.csv": "-.38"
@@ -407,6 +465,7 @@
     ],
     "Nifty Financial Services 25/50": [
         {
+            "ind_close_all_04082023.csv": ".86",
             "ind_close_all_03082023.csv": "-1.16",
             "ind_close_all_02082023.csv": "-1.28",
             "ind_close_all_01082023.csv": "-.26"
@@ -414,6 +473,7 @@
     ],
     "Nifty Healthcare Index": [
         {
+            "ind_close_all_04082023.csv": ".53",
             "ind_close_all_03082023.csv": ".68",
             "ind_close_all_02082023.csv": "-.38",
             "ind_close_all_01082023.csv": "-.42"
@@ -421,6 +481,7 @@
     ],
     "Nifty500 Multicap 50:25:25": [
         {
+            "ind_close_all_04082023.csv": ".69",
             "ind_close_all_03082023.csv": "-.3",
             "ind_close_all_02082023.csv": "-1.18",
             "ind_close_all_01082023.csv": ".02"
@@ -428,6 +489,7 @@
     ],
     "Nifty Microcap 250": [
         {
+            "ind_close_all_04082023.csv": ".66",
             "ind_close_all_03082023.csv": ".87",
             "ind_close_all_02082023.csv": "-1.48",
             "ind_close_all_01082023.csv": ".8"
@@ -435,6 +497,7 @@
     ],
     "Nifty Total Market": [
         {
+            "ind_close_all_04082023.csv": ".7",
             "ind_close_all_03082023.csv": "-.47",
             "ind_close_all_02082023.csv": "-1.14",
             "ind_close_all_01082023.csv": "-.02"
@@ -442,6 +505,7 @@
     ],
     "Nifty India Digital": [
         {
+            "ind_close_all_04082023.csv": "3.19",
             "ind_close_all_03082023.csv": "-.35",
             "ind_close_all_02082023.csv": "-1.08",
             "ind_close_all_01082023.csv": ".98"
@@ -449,6 +513,7 @@
     ],
     "Nifty Mobility": [
         {
+            "ind_close_all_04082023.csv": ".44",
             "ind_close_all_03082023.csv": "-.02",
             "ind_close_all_02082023.csv": "-1.46",
             "ind_close_all_01082023.csv": "-.31"
@@ -456,6 +521,7 @@
     ],
     "Nifty India Defence": [
         {
+            "ind_close_all_04082023.csv": ".47",
             "ind_close_all_03082023.csv": "-.1",
             "ind_close_all_02082023.csv": "-2.01",
             "ind_close_all_01082023.csv": "-.52"
@@ -463,6 +529,7 @@
     ],
     "Nifty Financial Services Ex-Bank": [
         {
+            "ind_close_all_04082023.csv": ".97",
             "ind_close_all_03082023.csv": "-.95",
             "ind_close_all_02082023.csv": "-1.4",
             "ind_close_all_01082023.csv": "-.39"
@@ -470,6 +537,7 @@
     ],
     "Nifty Housing": [
         {
+            "ind_close_all_04082023.csv": ".46",
             "ind_close_all_03082023.csv": "-.49",
             "ind_close_all_02082023.csv": "-1.37",
             "ind_close_all_01082023.csv": "-.03"
@@ -477,6 +545,7 @@
     ],
     "Nifty Transportation & Logistics": [
         {
+            "ind_close_all_04082023.csv": ".28",
             "ind_close_all_03082023.csv": "-.18",
             "ind_close_all_02082023.csv": "-1.43",
             "ind_close_all_01082023.csv": "-.08"
@@ -484,6 +553,7 @@
     ],
     "Nifty MidSmall Financial Services": [
         {
+            "ind_close_all_04082023.csv": ".98",
             "ind_close_all_03082023.csv": "-.18",
             "ind_close_all_02082023.csv": "-1.57",
             "ind_close_all_01082023.csv": "-.19"
@@ -491,6 +561,7 @@
     ],
     "Nifty MidSmall Healthcare": [
         {
+            "ind_close_all_04082023.csv": ".42",
             "ind_close_all_03082023.csv": "1.03",
             "ind_close_all_02082023.csv": "-.61",
             "ind_close_all_01082023.csv": "-.2"
@@ -498,6 +569,7 @@
     ],
     "Nifty MidSmall IT & Telecom": [
         {
+            "ind_close_all_04082023.csv": "1.63",
             "ind_close_all_03082023.csv": "-.22",
             "ind_close_all_02082023.csv": "-1.2",
             "ind_close_all_01082023.csv": ".66"
@@ -505,6 +577,7 @@
     ],
     "Nifty MidSmall India Consumption": [
         {
+            "ind_close_all_04082023.csv": ".44",
             "ind_close_all_03082023.csv": "-.12",
             "ind_close_all_02082023.csv": "-1.03",
             "ind_close_all_01082023.csv": "-.42"
@@ -512,6 +585,7 @@
     ],
     "Nifty REITs & InvITs": [
         {
+            "ind_close_all_04082023.csv": "-.62",
             "ind_close_all_03082023.csv": "-.59",
             "ind_close_all_02082023.csv": ".16",
             "ind_close_all_01082023.csv": "-.62"
@@ -519,6 +593,7 @@
     ],
     "Nifty Consumer Durables": [
         {
+            "ind_close_all_04082023.csv": "1.01",
             "ind_close_all_03082023.csv": "-.29",
             "ind_close_all_02082023.csv": "-.69",
             "ind_close_all_01082023.csv": "-.02"
@@ -526,6 +601,7 @@
     ],
     "Nifty Non-Cyclical Consumer": [
         {
+            "ind_close_all_04082023.csv": ".93",
             "ind_close_all_03082023.csv": "-.59",
             "ind_close_all_02082023.csv": "-.45",
             "ind_close_all_01082023.csv": "-.21"
@@ -533,6 +609,7 @@
     ],
     "Nifty India Manufacturing": [
         {
+            "ind_close_all_04082023.csv": ".34",
             "ind_close_all_03082023.csv": "-.24",
             "ind_close_all_02082023.csv": "-1.33",
             "ind_close_all_01082023.csv": ".05"
@@ -540,6 +617,7 @@
     ],
     "NIFTY100 Alpha 30": [
         {
+            "ind_close_all_04082023.csv": ".51",
             "ind_close_all_03082023.csv": "-.63",
             "ind_close_all_02082023.csv": "-1.43",
             "ind_close_all_01082023.csv": "-.38"
@@ -547,6 +625,7 @@
     ],
     "NIFTY500 Value 50": [
         {
+            "ind_close_all_04082023.csv": "-.08",
             "ind_close_all_03082023.csv": "-.33",
             "ind_close_all_02082023.csv": "-2.06",
             "ind_close_all_01082023.csv": ".08"
@@ -554,6 +633,7 @@
     ],
     "Nifty100 Low Volatility 30": [
         {
+            "ind_close_all_04082023.csv": ".6",
             "ind_close_all_03082023.csv": "-.54",
             "ind_close_all_02082023.csv": "-.69",
             "ind_close_all_01082023.csv": "-.12"
@@ -561,6 +641,7 @@
     ],
     "NIFTY Alpha Low-Volatility 30": [
         {
+            "ind_close_all_04082023.csv": "-.08",
             "ind_close_all_03082023.csv": "-.52",
             "ind_close_all_02082023.csv": "-.83",
             "ind_close_all_01082023.csv": "-.28"
@@ -568,6 +649,7 @@
     ],
     "NIFTY Quality Low-Volatility 30": [
         {
+            "ind_close_all_04082023.csv": ".7",
             "ind_close_all_03082023.csv": "-.63",
             "ind_close_all_02082023.csv": "-.59",
             "ind_close_all_01082023.csv": ".24"
@@ -575,6 +657,7 @@
     ],
     "NIFTY Alpha Quality Low-Volatility 30": [
         {
+            "ind_close_all_04082023.csv": ".36",
             "ind_close_all_03082023.csv": "-.25",
             "ind_close_all_02082023.csv": "-.96",
             "ind_close_all_01082023.csv": "-.1"
@@ -582,6 +665,7 @@
     ],
     "NIFTY Alpha Quality Value Low-Volatility 30": [
         {
+            "ind_close_all_04082023.csv": ".47",
             "ind_close_all_03082023.csv": "-.37",
             "ind_close_all_02082023.csv": "-1.07",
             "ind_close_all_01082023.csv": "-.03"
@@ -589,6 +673,7 @@
     ],
     "NIFTY200 Quality 30": [
         {
+            "ind_close_all_04082023.csv": ".59",
             "ind_close_all_03082023.csv": "-.5",
             "ind_close_all_02082023.csv": "-.53",
             "ind_close_all_01082023.csv": ".48"
@@ -596,6 +681,7 @@
     ],
     "NIFTY Midcap150 Quality 50": [
         {
+            "ind_close_all_04082023.csv": ".66",
             "ind_close_all_03082023.csv": "-.22",
             "ind_close_all_02082023.csv": "-1.03",
             "ind_close_all_01082023.csv": ".46"
@@ -603,6 +689,7 @@
     ],
     "Nifty200 Momentum 30": [
         {
+            "ind_close_all_04082023.csv": ".25",
             "ind_close_all_03082023.csv": "-.35",
             "ind_close_all_02082023.csv": "-1.41",
             "ind_close_all_01082023.csv": "-.68"
@@ -610,6 +697,7 @@
     ],
     "Nifty100 ESG Sector Leaders": [
         {
+            "ind_close_all_04082023.csv": ".75",
             "ind_close_all_03082023.csv": "-.69",
             "ind_close_all_02082023.csv": "-.89",
             "ind_close_all_01082023.csv": "-.06"
@@ -617,6 +705,7 @@
     ],
     "Nifty200 Alpha 30": [
         {
+            "ind_close_all_04082023.csv": ".06",
             "ind_close_all_03082023.csv": "-.19",
             "ind_close_all_02082023.csv": "-1.79",
             "ind_close_all_01082023.csv": "-.59"
@@ -624,6 +713,7 @@
     ],
     "Nifty Midcap150 Momentum 50": [
         {
+            "ind_close_all_04082023.csv": ".23",
             "ind_close_all_03082023.csv": "-.12",
             "ind_close_all_02082023.csv": "-.93",
             "ind_close_all_01082023.csv": "-.38"
@@ -631,6 +721,7 @@
     ],
     "Nifty Smallcap250 Quality 50": [
         {
+            "ind_close_all_04082023.csv": ".47",
             "ind_close_all_03082023.csv": "-.01",
             "ind_close_all_02082023.csv": "-1.35",
             "ind_close_all_01082023.csv": ".35"
@@ -638,6 +729,7 @@
     ],
     "NIFTY100 ESG": [
         {
+            "ind_close_all_04082023.csv": ".8",
             "ind_close_all_03082023.csv": "-.57",
             "ind_close_all_02082023.csv": "-1.04",
             "ind_close_all_01082023.csv": ".01"
@@ -645,6 +737,7 @@
     ],
     "NIFTY100 Enhanced ESG": [
         {
+            "ind_close_all_04082023.csv": ".8",
             "ind_close_all_03082023.csv": "-.57",
             "ind_close_all_02082023.csv": "-1.03",
             "ind_close_all_01082023.csv": "0"
@@ -652,6 +745,7 @@
     ],
     "NIFTY50 Equal Weight": [
         {
+            "ind_close_all_04082023.csv": ".46",
             "ind_close_all_03082023.csv": "-.6",
             "ind_close_all_02082023.csv": "-1.13",
             "ind_close_all_01082023.csv": "-.1"
@@ -659,6 +753,7 @@
     ],
     "Nifty 50 Futures Index": [
         {
+            "ind_close_all_04082023.csv": ".56",
             "ind_close_all_03082023.csv": "-.66",
             "ind_close_all_02082023.csv": "-1.09",
             "ind_close_all_01082023.csv": "-.16"
@@ -666,6 +761,7 @@
     ],
     "Nifty 50 Arbitrage": [
         {
+            "ind_close_all_04082023.csv": ".1",
             "ind_close_all_03082023.csv": "-.04",
             "ind_close_all_02082023.csv": ".06",
             "ind_close_all_01082023.csv": ".04"
@@ -673,6 +769,7 @@
     ],
     "Nifty Aditya Birla Group": [
         {
+            "ind_close_all_04082023.csv": ".13",
             "ind_close_all_03082023.csv": "-.54",
             "ind_close_all_02082023.csv": "-1.19",
             "ind_close_all_01082023.csv": "-.27"
@@ -680,6 +777,7 @@
     ],
     "Nifty 8-13 yr G-Sec": [
         {
+            "ind_close_all_04082023.csv": ".02",
             "ind_close_all_03082023.csv": "-.22",
             "ind_close_all_02082023.csv": ".01",
             "ind_close_all_01082023.csv": ".15"
@@ -687,6 +785,7 @@
     ],
     "Nifty 4-8 yr G-Sec Index": [
         {
+            "ind_close_all_04082023.csv": ".04",
             "ind_close_all_03082023.csv": "-.16",
             "ind_close_all_02082023.csv": ".02",
             "ind_close_all_01082023.csv": ".11"
@@ -694,6 +793,7 @@
     ],
     "Nifty 11-15 yr G-Sec Index": [
         {
+            "ind_close_all_04082023.csv": ".05",
             "ind_close_all_03082023.csv": "-.3",
             "ind_close_all_02082023.csv": "-.07",
             "ind_close_all_01082023.csv": ".13"
@@ -701,6 +801,7 @@
     ],
     "Nifty 15 yr and above G-Sec Index": [
         {
+            "ind_close_all_04082023.csv": ".06",
             "ind_close_all_03082023.csv": "-.44",
             "ind_close_all_02082023.csv": ".02",
             "ind_close_all_01082023.csv": ".13"
@@ -708,6 +809,7 @@
     ],
     "Nifty Composite G-sec Index": [
         {
+            "ind_close_all_04082023.csv": ".03",
             "ind_close_all_03082023.csv": "-.23",
             "ind_close_all_02082023.csv": ".01",
             "ind_close_all_01082023.csv": ".13"
@@ -715,6 +817,7 @@
     ],
     "Nifty 10 yr Benchmark G-Sec": [
         {
+            "ind_close_all_04082023.csv": ".02",
             "ind_close_all_03082023.csv": "-.24",
             "ind_close_all_02082023.csv": ".04",
             "ind_close_all_01082023.csv": ".12"
@@ -722,6 +825,7 @@
     ],
     "Nifty 10 yr Benchmark G-Sec (Clean Price)": [
         {
+            "ind_close_all_04082023.csv": "0",
             "ind_close_all_03082023.csv": "-.27",
             "ind_close_all_02082023.csv": ".02",
             "ind_close_all_01082023.csv": ".11"
@@ -729,6 +833,7 @@
     ],
     "Nifty 1D Rate Index": [
         {
+            "ind_close_all_04082023.csv": ".02",
             "ind_close_all_03082023.csv": ".02",
             "ind_close_all_02082023.csv": ".02",
             "ind_close_all_01082023.csv": ".02"
@@ -736,7 +841,8 @@
     ],
     "Nifty50 USD": [
         {
-            "ind_close_all_03082023.csv": "",
+            "ind_close_all_04082023.csv": "",
+            "ind_close_all_03082023.csv": "-.92",
             "ind_close_all_02082023.csv": "-1.44",
             "ind_close_all_01082023.csv": "-.11"
         }
