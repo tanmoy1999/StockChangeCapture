@@ -2626,7 +2626,7 @@
     ],
     "Nifty50 USD": [
         {
-            "ind_close_all_30082023.csv": "",
+            "ind_close_all_30082023.csv": "-.01",
             "ind_close_all_29082023.csv": ".1",
             "ind_close_all_28082023.csv": ".24",
             "ind_close_all_25082023.csv": "-.72",
