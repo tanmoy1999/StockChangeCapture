@@ -45,7 +45,7 @@
 43,Nifty50 PR 2x Leverage,1,1.5,-.97
 44,NIFTY100 Quality 30,.59,.76,-.95
 45,Nifty Mahindra Group,.88,.56,-.4
-46,Nifty 50 Futures TR Index,,.96,-.49
+46,Nifty 50 Futures TR Index,.36,.96,-.49
 47,Nifty Tata Group,.32,1.01,-.73
 48,Nifty Tata Group 25% Cap,.65,.98,-.54
 49,Nifty Private Bank,.67,.79,-.47
@@ -93,15 +93,15 @@
 91,NIFTY100 ESG,.63,.86,-.64
 92,NIFTY100 Enhanced ESG,.64,.85,-.64
 93,NIFTY50 Equal Weight,.59,.81,-.6
-94,Nifty 50 Futures Index,,.94,-.51
-95,Nifty 50 Arbitrage,,-.09,.03
+94,Nifty 50 Futures Index,.34,.94,-.51
+95,Nifty 50 Arbitrage,.13,-.09,.03
 96,Nifty Aditya Birla Group,.38,1.97,.37
-97,Nifty 8-13 yr G-Sec,,.2,.01
-98,Nifty 4-8 yr G-Sec Index,,.19,0
-99,Nifty 11-15 yr G-Sec Index,,.23,.03
-100,Nifty 15 yr and above G-Sec Index,,.4,0
-101,Nifty Composite G-sec Index,,.22,0
-102,Nifty 10 yr Benchmark G-Sec,,.27,-.03
-103,Nifty 10 yr Benchmark G-Sec (Clean Price),,.25,-.05
-104,Nifty 1D Rate Index,,.02,.02
-105,Nifty50 USD,,.81,-.51
+97,Nifty 8-13 yr G-Sec,.07,.2,.01
+98,Nifty 4-8 yr G-Sec Index,.08,.19,0
+99,Nifty 11-15 yr G-Sec Index,.08,.23,.03
+100,Nifty 15 yr and above G-Sec Index,.23,.4,0
+101,Nifty Composite G-sec Index,.08,.22,0
+102,Nifty 10 yr Benchmark G-Sec,.06,.27,-.03
+103,Nifty 10 yr Benchmark G-Sec (Clean Price),.04,.25,-.05
+104,Nifty 1D Rate Index,.02,.02,.02
+105,Nifty50 USD,.47,.81,-.51
