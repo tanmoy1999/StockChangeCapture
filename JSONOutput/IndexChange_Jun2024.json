@@ -919,7 +919,7 @@
     ],
     "Nifty 10 yr Benchmark G-Sec": [
         {
-            "ind_close_all_07062024.csv": "0",
+            "ind_close_all_07062024.csv": "-.02",
             "ind_close_all_06062024.csv": ".08",
             "ind_close_all_05062024.csv": ".05",
             "ind_close_all_04062024.csv": "-.6",
@@ -946,7 +946,7 @@
     ],
     "Nifty50 USD": [
         {
-            "ind_close_all_07062024.csv": "",
+            "ind_close_all_07062024.csv": "2.18",
             "ind_close_all_06062024.csv": ".76",
             "ind_close_all_05062024.csv": "3.55",
             "ind_close_all_04062024.csv": "-6.36",
