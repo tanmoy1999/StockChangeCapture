@@ -1059,7 +1059,7 @@
     ],
     "Nifty 50 Futures TR Index": [
         {
-            "ind_close_all_29112024.csv": "",
+            "ind_close_all_29112024.csv": ".8",
             "ind_close_all_28112024.csv": "-1.38",
             "ind_close_all_27112024.csv": ".35",
             "ind_close_all_26112024.csv": "-.23",
@@ -2163,7 +2163,7 @@
     ],
     "Nifty 50 Futures Index": [
         {
-            "ind_close_all_29112024.csv": "",
+            "ind_close_all_29112024.csv": ".78",
             "ind_close_all_28112024.csv": "-1.4",
             "ind_close_all_27112024.csv": ".34",
             "ind_close_all_26112024.csv": "-.25",
@@ -2186,7 +2186,7 @@
     ],
     "Nifty 50 Arbitrage": [
         {
-            "ind_close_all_29112024.csv": "",
+            "ind_close_all_29112024.csv": ".09",
             "ind_close_all_28112024.csv": ".07",
             "ind_close_all_27112024.csv": "0",
             "ind_close_all_26112024.csv": ".08",
@@ -2232,7 +2232,7 @@
     ],
     "Nifty 8-13 yr G-Sec": [
         {
-            "ind_close_all_29112024.csv": "",
+            "ind_close_all_29112024.csv": ".37",
             "ind_close_all_28112024.csv": ".06",
             "ind_close_all_27112024.csv": ".12",
             "ind_close_all_26112024.csv": "-.02",
@@ -2255,7 +2255,7 @@
     ],
     "Nifty 4-8 yr G-Sec Index": [
         {
-            "ind_close_all_29112024.csv": "",
+            "ind_close_all_29112024.csv": ".25",
             "ind_close_all_28112024.csv": ".07",
             "ind_close_all_27112024.csv": ".07",
             "ind_close_all_26112024.csv": "-.01",
@@ -2278,7 +2278,7 @@
     ],
     "Nifty 11-15 yr G-Sec Index": [
         {
-            "ind_close_all_29112024.csv": "",
+            "ind_close_all_29112024.csv": ".27",
             "ind_close_all_28112024.csv": ".04",
             "ind_close_all_27112024.csv": ".15",
             "ind_close_all_26112024.csv": "-.02",
@@ -2301,7 +2301,7 @@
     ],
     "Nifty 15 yr and above G-Sec Index": [
         {
-            "ind_close_all_29112024.csv": "",
+            "ind_close_all_29112024.csv": ".33",
             "ind_close_all_28112024.csv": "-.09",
             "ind_close_all_27112024.csv": ".13",
             "ind_close_all_26112024.csv": "-.06",
@@ -2324,7 +2324,7 @@
     ],
     "Nifty Composite G-sec Index": [
         {
-            "ind_close_all_29112024.csv": "",
+            "ind_close_all_29112024.csv": ".33",
             "ind_close_all_28112024.csv": ".05",
             "ind_close_all_27112024.csv": ".12",
             "ind_close_all_26112024.csv": "-.03",
@@ -2347,7 +2347,7 @@
     ],
     "Nifty 10 yr Benchmark G-Sec": [
         {
-            "ind_close_all_29112024.csv": "",
+            "ind_close_all_29112024.csv": ".38",
             "ind_close_all_28112024.csv": ".07",
             "ind_close_all_27112024.csv": ".13",
             "ind_close_all_26112024.csv": "-.02",
@@ -2370,7 +2370,7 @@
     ],
     "Nifty 10 yr Benchmark G-Sec (Clean Price)": [
         {
-            "ind_close_all_29112024.csv": "",
+            "ind_close_all_29112024.csv": ".36",
             "ind_close_all_28112024.csv": ".05",
             "ind_close_all_27112024.csv": ".11",
             "ind_close_all_26112024.csv": "-.04",
@@ -2393,7 +2393,7 @@
     ],
     "Nifty 1D Rate Index": [
         {
-            "ind_close_all_29112024.csv": "",
+            "ind_close_all_29112024.csv": ".02",
             "ind_close_all_28112024.csv": ".02",
             "ind_close_all_27112024.csv": ".02",
             "ind_close_all_26112024.csv": ".02",
@@ -2416,7 +2416,7 @@
     ],
     "Nifty50 USD": [
         {
-            "ind_close_all_29112024.csv": "",
+            "ind_close_all_29112024.csv": ".91",
             "ind_close_all_28112024.csv": "-1.54",
             "ind_close_all_27112024.csv": ".19",
             "ind_close_all_26112024.csv": "-.17",
