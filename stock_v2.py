@@ -48,10 +48,10 @@ while current_date <= end_date:
         # Format the date as DDMMYYYY
         formatted_date = current_date.strftime('%d%m%Y')
         print(formatted_date)
-    # Move to the next day
-    current_date += timedelta(days=1)
-    print(down(formatted_date))
-    time.sleep(random.randint(1, 4))
+        # Move to the next day
+        current_date += timedelta(days=1)
+        print(down(formatted_date))
+        time.sleep(random.randint(1, 4))
 
 
 
