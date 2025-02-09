@@ -145,7 +145,7 @@ try:
     print(f"JSON file exported... {json_filename}")
 
     print(dir_list)
-    dir_list_del = ['Test/'+ i for i in dir_list]
+    dir_list_del = ['test/'+ i for i in dir_list]
     for f in dir_list_del:
         os.remove(f)
     print("source files deleted...")
