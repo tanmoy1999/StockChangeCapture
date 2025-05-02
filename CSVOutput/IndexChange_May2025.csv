@@ -1,107 +1,107 @@
-,Index Name
-0,Nifty 50
-1,Nifty Next 50
-2,Nifty 100
-3,Nifty 200
-4,Nifty 500
-5,Nifty Midcap 50
-6,NIFTY Midcap 100
-7,NIFTY Smallcap 100
-8,Nifty50 Dividend Points
-9,Nifty Auto
-10,Nifty Bank
-11,Nifty Energy
-12,Nifty Financial Services
-13,Nifty FMCG
-14,Nifty IT
-15,Nifty Media
-16,Nifty Metal
-17,Nifty MNC
-18,Nifty Pharma
-19,Nifty PSU Bank
-20,Nifty Realty
-21,Nifty India Consumption
-22,Nifty Commodities
-23,Nifty Dividend Opportunities 50
-24,Nifty Infrastructure
-25,Nifty PSE
-26,Nifty Services Sector
-27,Nifty50 Shariah
-28,Nifty500 Shariah
-29,Nifty Low Volatility 50
-30,Nifty Alpha 50
-31,Nifty High Beta 50
-32,Nifty100 Equal Weight
-33,Nifty100 Liquid 15
-34,Nifty CPSE
-35,Nifty50 Value 20
-36,Nifty Midcap Liquid 15
-37,Nifty Shariah 25
-38,India VIX
-39,Nifty Growth Sectors 15
-40,Nifty50 TR 1x Inverse
-41,Nifty50 TR 2x Leverage
-42,Nifty50 PR 1x Inverse
-43,Nifty50 PR 2x Leverage
-44,NIFTY100 Quality 30
-45,Nifty Mahindra Group
-46,Nifty 50 Futures TR Index
-47,Nifty Tata Group
-48,Nifty Tata Group 25% Cap
-49,Nifty Private Bank
-50,Nifty Smallcap 250
-51,Nifty Smallcap 50
-52,Nifty MidSmallcap 400
-53,Nifty Midcap 150
-54,Nifty Midcap Select
-55,NIFTY LargeMidcap 250
-56,NIFTY SME EMERGE
-57,Nifty Oil & Gas
-58,Nifty Financial Services 25/50
-59,Nifty Healthcare Index
-60,Nifty500 Multicap 50:25:25
-61,Nifty Microcap 250
-62,Nifty Total Market
-63,Nifty India Digital
-64,Nifty Mobility
-65,Nifty India Defence
-66,Nifty Financial Services Ex-Bank
-67,Nifty Housing
-68,Nifty Transportation & Logistics
-69,Nifty MidSmall Financial Services
-70,Nifty MidSmall Healthcare
-71,Nifty MidSmall IT & Telecom
-72,Nifty MidSmall India Consumption
-73,Nifty REITs & InvITs
-74,Nifty Consumer Durables
-75,Nifty Non-Cyclical Consumer
-76,Nifty India Manufacturing
-77,NIFTY100 Alpha 30
-78,NIFTY500 Value 50
-79,Nifty100 Low Volatility 30
-80,NIFTY Alpha Low-Volatility 30
-81,NIFTY Quality Low-Volatility 30
-82,NIFTY Alpha Quality Low-Volatility 30
-83,NIFTY Alpha Quality Value Low-Volatility 30
-84,NIFTY200 Quality 30
-85,NIFTY Midcap150 Quality 50
-86,Nifty200 Momentum 30
-87,Nifty100 ESG Sector Leaders
-88,Nifty200 Alpha 30
-89,Nifty Midcap150 Momentum 50
-90,Nifty Smallcap250 Quality 50
-91,NIFTY100 ESG
-92,NIFTY100 Enhanced ESG
-93,NIFTY50 Equal Weight
-94,Nifty 50 Futures Index
-95,Nifty 50 Arbitrage
-96,Nifty Aditya Birla Group
-97,Nifty 8-13 yr G-Sec
-98,Nifty 4-8 yr G-Sec Index
-99,Nifty 11-15 yr G-Sec Index
-100,Nifty 15 yr and above G-Sec Index
-101,Nifty Composite G-sec Index
-102,Nifty 10 yr Benchmark G-Sec
-103,Nifty 10 yr Benchmark G-Sec (Clean Price)
-104,Nifty 1D Rate Index
-105,Nifty50 USD
+,Index Name,ind_close_all_02052025.csv
+0,Nifty 50,.05
+1,Nifty Next 50,-.12
+2,Nifty 100,.02
+3,Nifty 200,-.11
+4,Nifty 500,-.11
+5,Nifty Midcap 50,-.9
+6,NIFTY Midcap 100,-.78
+7,NIFTY Smallcap 100,-.04
+8,Nifty50 Dividend Points,-
+9,Nifty Auto,-.1
+10,Nifty Bank,.05
+11,Nifty Energy,-.3
+12,Nifty Financial Services,.15
+13,Nifty FMCG,-.34
+14,Nifty IT,.27
+15,Nifty Media,.49
+16,Nifty Metal,-.74
+17,Nifty MNC,-.41
+18,Nifty Pharma,-.67
+19,Nifty PSU Bank,.19
+20,Nifty Realty,-.49
+21,Nifty India Consumption,-.31
+22,Nifty Commodities,-.34
+23,Nifty Dividend Opportunities 50,-.03
+24,Nifty Infrastructure,.1
+25,Nifty PSE,-.31
+26,Nifty Services Sector,.09
+27,Nifty50 Shariah,-.47
+28,Nifty500 Shariah,-.38
+29,Nifty Low Volatility 50,-.67
+30,Nifty Alpha 50,-.95
+31,Nifty High Beta 50,-.1
+32,Nifty100 Equal Weight,-.27
+33,Nifty100 Liquid 15,.44
+34,Nifty CPSE,-1.02
+35,Nifty50 Value 20,.23
+36,Nifty Midcap Liquid 15,-.6
+37,Nifty Shariah 25,-.44
+38,India VIX,.19
+39,Nifty Growth Sectors 15,-.24
+40,Nifty50 TR 1x Inverse,0
+41,Nifty50 TR 2x Leverage,.07
+42,Nifty50 PR 1x Inverse,0
+43,Nifty50 PR 2x Leverage,.07
+44,NIFTY100 Quality 30,-.57
+45,Nifty Mahindra Group,
+46,Nifty 50 Futures TR Index,-.04
+47,Nifty Tata Group,
+48,Nifty Tata Group 25% Cap,
+49,Nifty Private Bank,-.2
+50,Nifty Smallcap 250,-.03
+51,Nifty Smallcap 50,-.12
+52,Nifty MidSmallcap 400,-.46
+53,Nifty Midcap 150,-.68
+54,Nifty Midcap Select,-.81
+55,NIFTY LargeMidcap 250,-.33
+56,NIFTY SME EMERGE,-.29
+57,Nifty Oil & Gas,.73
+58,Nifty Financial Services 25/50,0
+59,Nifty Healthcare Index,-.61
+60,Nifty500 Multicap 50:25:25,-.17
+61,Nifty Microcap 250,-.09
+62,Nifty Total Market,-.11
+63,Nifty India Digital,-.32
+64,Nifty Mobility,.53
+65,Nifty India Defence,-1.27
+66,Nifty Financial Services Ex-Bank,.04
+67,Nifty Housing,-.65
+68,Nifty Transportation & Logistics,.41
+69,Nifty MidSmall Financial Services,-.45
+70,Nifty MidSmall Healthcare,-.83
+71,Nifty MidSmall IT & Telecom,-.84
+72,Nifty MidSmall India Consumption,-1.33
+73,Nifty REITs & InvITs,-.54
+74,Nifty Consumer Durables,-1.39
+75,Nifty Non-Cyclical Consumer,-.49
+76,Nifty India Manufacturing,-.35
+77,NIFTY100 Alpha 30,-.04
+78,NIFTY500 Value 50,.23
+79,Nifty100 Low Volatility 30,-.47
+80,NIFTY Alpha Low-Volatility 30,-.35
+81,NIFTY Quality Low-Volatility 30,-.69
+82,NIFTY Alpha Quality Low-Volatility 30,-.72
+83,NIFTY Alpha Quality Value Low-Volatility 30,-.64
+84,NIFTY200 Quality 30,-.67
+85,NIFTY Midcap150 Quality 50,-.43
+86,Nifty200 Momentum 30,-.27
+87,Nifty100 ESG Sector Leaders,.06
+88,Nifty200 Alpha 30,-.64
+89,Nifty Midcap150 Momentum 50,-.92
+90,Nifty Smallcap250 Quality 50,-.28
+91,NIFTY100 ESG,-.07
+92,NIFTY100 Enhanced ESG,-.06
+93,NIFTY50 Equal Weight,-.27
+94,Nifty 50 Futures Index,-.07
+95,Nifty 50 Arbitrage,.09
+96,Nifty Aditya Birla Group,
+97,Nifty 8-13 yr G-Sec,.03
+98,Nifty 4-8 yr G-Sec Index,.04
+99,Nifty 11-15 yr G-Sec Index,.03
+100,Nifty 15 yr and above G-Sec Index,.03
+101,Nifty Composite G-sec Index,.03
+102,Nifty 10 yr Benchmark G-Sec,.04
+103,Nifty 10 yr Benchmark G-Sec (Clean Price),.02
+104,Nifty 1D Rate Index,.03
+105,Nifty50 USD,
